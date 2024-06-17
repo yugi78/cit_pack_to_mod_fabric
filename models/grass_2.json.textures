@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "grass_2",
+        "top": "grass_2_03",
+        "middle": "grass_2_02",
+        "lower": "grass_2_01"
+      },
+      "name": "default"
+    }
+  }
+}

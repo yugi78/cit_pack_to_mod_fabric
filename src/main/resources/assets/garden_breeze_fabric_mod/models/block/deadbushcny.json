@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/dead_bush_cny",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/acacia_planks",
+        "particle": "garden_breeze_fabric_mod:block/dead_bush_cny",
+        "0": "garden_breeze_fabric_mod:block/dead_bush_cny",
+        "3": "garden_breeze_fabric_mod:block/dead_bush_vase"
+    },
+    "render_type": "cutout"
+}

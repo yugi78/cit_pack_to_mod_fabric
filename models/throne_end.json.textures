@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "end_stone_bricks",
+        "1": "purpur_pillar",
+        "2": "purpur_block",
+        "3": "purpur_pillar_top",
+        "particle": "end_stone_bricks"
+      },
+      "name": "default"
+    }
+  }
+}

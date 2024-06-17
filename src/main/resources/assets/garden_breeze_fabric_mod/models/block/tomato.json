@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/tomato",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/veggies",
+        "0": "garden_breeze_fabric_mod:block/veggies",
+        "2": "garden_breeze_fabric_mod:block/jungle_log",
+        "3": "garden_breeze_fabric_mod:block/light_gray_concrete",
+        "1_0": "garden_breeze_fabric_mod:block/grass_8"
+    },
+    "render_type": "cutout"
+}

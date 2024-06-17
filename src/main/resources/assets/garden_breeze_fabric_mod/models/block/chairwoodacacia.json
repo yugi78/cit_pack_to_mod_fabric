@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_chair_wood_acacia",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/ladder_acacia",
+        "0": "garden_breeze_fabric_mod:block/ladder_acacia"
+    },
+    "render_type": "cutout"
+}

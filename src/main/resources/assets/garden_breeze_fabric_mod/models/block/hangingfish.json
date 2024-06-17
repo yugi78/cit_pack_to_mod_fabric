@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/hanging_fish",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/beetroot_0",
+        "0": "garden_breeze_fabric_mod:block/lead_knot",
+        "1_1_0": "garden_breeze_fabric_mod:block/cod_0",
+        "3_1_1_0": "garden_breeze_fabric_mod:block/salmon_0"
+    },
+    "render_type": "cutout"
+}

@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "sewing0",
+        "1": "sewing1b",
+        "2": "brass_parts",
+        "3": "sewing2b",
+        "4": "table_darkbrown_top",
+        "5": "sewing0b",
+        "6": "sewing1b",
+        "7": "sewing2b",
+        "particle": "table_darkbrown_top"
+      },
+      "name": "default"
+    }
+  }
+}

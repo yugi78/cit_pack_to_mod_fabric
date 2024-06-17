@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "garden_breeze_fabric_mod:block/pianobrowna"
+        },
+        "facing=east": {
+            "model": "garden_breeze_fabric_mod:block/pianobrowna",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "garden_breeze_fabric_mod:block/pianobrowna",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "garden_breeze_fabric_mod:block/pianobrowna",
+            "y": 270
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "picnicbasket",
+        "1": "anvil",
+        "2": "white_wool",
+        "particle": "picnicbasket"
+      },
+      "name": "default"
+    }
+  }
+}

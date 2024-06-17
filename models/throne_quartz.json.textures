@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "chiseled_quartz_block",
+        "1": "quartz_block_stair",
+        "2": "quartz_block_bottom",
+        "3": "blue_ice",
+        "particle": "chiseled_quartz_block"
+      },
+      "name": "default"
+    }
+  }
+}

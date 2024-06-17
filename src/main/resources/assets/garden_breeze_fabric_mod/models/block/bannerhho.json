@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/banner_hho",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/hbflags",
+        "particle": "garden_breeze_fabric_mod:block/hbflags",
+        "0": "garden_breeze_fabric_mod:block/hbflags"
+    },
+    "render_type": "cutout"
+}

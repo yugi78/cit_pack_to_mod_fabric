@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dish",
+        "1": "food_vege",
+        "2": "meat_chicken",
+        "4": "box_fru2",
+        "particle": "meat_chicken"
+      },
+      "name": "default"
+    }
+  }
+}

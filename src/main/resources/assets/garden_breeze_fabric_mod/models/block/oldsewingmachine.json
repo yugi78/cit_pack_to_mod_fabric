@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/oldsewingmachine",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/chess_1",
+    "particle": "garden_breeze_fabric_mod:block/oak",
+    "0": "garden_breeze_fabric_mod:block/oak",
+    "2": "garden_breeze_fabric_mod:block/iron_1",
+    "3": "garden_breeze_fabric_mod:block/sewing_machine"
+  },
+  "render_type": "cutout"
+}

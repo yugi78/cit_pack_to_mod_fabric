@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "butterflies2",
+        "1": "butterflies_backing",
+        "particle": "butterflies2"
+      },
+      "name": "default"
+    }
+  }
+}

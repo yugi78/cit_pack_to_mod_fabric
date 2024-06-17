@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/pot_stacked1",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/terracotta",
+        "0": "garden_breeze_fabric_mod:block/terracotta"
+    },
+    "render_type": "cutout"
+}

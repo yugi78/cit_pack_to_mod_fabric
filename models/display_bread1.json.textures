@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bread_2",
+        "1": "bread_2",
+        "2": "spruce_planks",
+        "1_0": "bread_0",
+        "1_1": "bread_1"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "white_wool_shirt",
+        "2": "oak_planks_a",
+        "4": "light_gray_wool_trousers",
+        "5": "hanger1",
+        "7": "dress_pink",
+        "particle": "white_wool_shirt"
+      },
+      "name": "default"
+    }
+  }
+}

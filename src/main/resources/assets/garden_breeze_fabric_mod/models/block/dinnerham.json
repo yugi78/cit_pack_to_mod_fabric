@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/dinner_ham",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/ham1",
+        "particle": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "0": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "1": "garden_breeze_fabric_mod:block/ham1",
+        "3": "garden_breeze_fabric_mod:block/ham2",
+        "4": "garden_breeze_fabric_mod:block/oak_sapling_0"
+    },
+    "render_type": "cutout"
+}

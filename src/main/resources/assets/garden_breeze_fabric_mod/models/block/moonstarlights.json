@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/moonstarlights",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "2": "garden_breeze_fabric_mod:block/moon",
+        "3": "garden_breeze_fabric_mod:block/sun",
+        "1_0": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "1_1": "garden_breeze_fabric_mod:block/sea_lantern1"
+    },
+    "render_type": "cutout"
+}

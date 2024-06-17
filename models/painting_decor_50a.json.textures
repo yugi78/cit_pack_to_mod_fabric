@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "cabinet": "stripped_spruce_log_mod",
+        "handle": "handle_dark"
+      },
+      "name": "default"
+    }
+  }
+}

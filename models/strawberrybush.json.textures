@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "oak_log",
+        "1": "melon_slice_0",
+        "3": "birch_sapling_5",
+        "particle": "oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

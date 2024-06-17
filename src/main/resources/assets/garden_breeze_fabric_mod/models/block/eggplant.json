@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/eggplant",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/veggies",
+        "0": "garden_breeze_fabric_mod:block/veggies",
+        "2": "garden_breeze_fabric_mod:block/jungle_log",
+        "1_0": "garden_breeze_fabric_mod:block/sunflower_bottom"
+    },
+    "render_type": "cutout"
+}

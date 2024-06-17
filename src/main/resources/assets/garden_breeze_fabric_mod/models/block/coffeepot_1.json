@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/coffeepot1",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/potion_0",
+        "particle": "garden_breeze_fabric_mod:block/black_concrete",
+        "0": "garden_breeze_fabric_mod:block/black_concrete",
+        "1": "garden_breeze_fabric_mod:block/anvil",
+        "2": "garden_breeze_fabric_mod:block/black_concrete",
+        "3": "garden_breeze_fabric_mod:block/potion_0",
+        "4": "garden_breeze_fabric_mod:block/light_gray_concrete"
+    },
+    "render_type": "cutout"
+}

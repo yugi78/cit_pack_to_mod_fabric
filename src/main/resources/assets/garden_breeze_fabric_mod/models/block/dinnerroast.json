@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/dinner_roast",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/ham1",
+        "particle": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "0": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "1": "garden_breeze_fabric_mod:block/carrot_0",
+        "2": "garden_breeze_fabric_mod:block/potato_0",
+        "3": "garden_breeze_fabric_mod:block/dark_oak_log_top"
+    },
+    "render_type": "cutout"
+}

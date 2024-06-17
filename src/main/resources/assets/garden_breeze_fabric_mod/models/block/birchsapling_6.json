@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/birch_sapling_6",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/birch_sapling_6",
+    "1": "garden_breeze_fabric_mod:block/birch_sapling_6_01",
+    "1_0": "garden_breeze_fabric_mod:block/flower_pot_l_0e"
+  },
+  "render_type": "cutout"
+}

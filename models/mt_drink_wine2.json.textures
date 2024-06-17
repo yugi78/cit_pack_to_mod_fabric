@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bottle_b",
+        "1": "leaves_rose_red_flowers",
+        "2": "c",
+        "6": "bottle_b",
+        "7": "bottle_b",
+        "8": "c",
+        "12": "c",
+        "0b": "bottle_b",
+        "1b": "leaves_rose_red_flowers",
+        "2b": "c",
+        "6b": "bottle_b",
+        "7b": "bottle_b",
+        "8b": "c",
+        "12b": "c",
+        "particle": "leaves_rose_red_flowers"
+      },
+      "name": "default"
+    }
+  }
+}

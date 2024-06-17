@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/alchemy1",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/potion_0",
+        "particle": "garden_breeze_fabric_mod:block/gray_concrete",
+        "1": "garden_breeze_fabric_mod:block/blue_ice",
+        "2": "garden_breeze_fabric_mod:block/gray_concrete",
+        "2_0": "garden_breeze_fabric_mod:block/potion_0"
+    },
+    "render_type": "translucent"
+}

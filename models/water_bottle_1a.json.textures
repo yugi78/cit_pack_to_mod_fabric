@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "water_bottle_1a",
+        "1": "water_bottle_1a_01"
+      },
+      "name": "default"
+    }
+  }
+}

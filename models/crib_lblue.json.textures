@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "quartz_pillar",
+        "1": "light_blue",
+        "2": "light_blue_concrete_powder",
+        "particle": "quartz_pillar"
+      },
+      "name": "default"
+    }
+  }
+}

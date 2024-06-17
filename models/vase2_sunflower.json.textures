@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "porcelain_pitcher",
+        "1": "sunflower_stem",
+        "2": "sunflower_back",
+        "3": "sunflower_front",
+        "particle": "porcelain_pitcher"
+      },
+      "name": "default"
+    }
+  }
+}

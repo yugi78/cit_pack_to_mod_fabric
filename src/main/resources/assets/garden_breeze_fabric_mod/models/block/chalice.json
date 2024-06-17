@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/chalice",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/gold_block",
+        "particle": "garden_breeze_fabric_mod:block/red_tulip",
+        "0": "garden_breeze_fabric_mod:block/red_tulip",
+        "1": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "2": "garden_breeze_fabric_mod:block/purple_terracotta"
+    },
+    "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "hydrangea_pink",
+        "4": "canasto1",
+        "8": "bici",
+        "particle": "bici"
+      },
+      "name": "default"
+    }
+  }
+}

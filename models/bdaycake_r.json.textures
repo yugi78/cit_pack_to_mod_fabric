@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "sand",
+        "2": "red_wool",
+        "3": "red_concrete_powder",
+        "4": "candle",
+        "5": "bone_block_side",
+        "particle": "red_concrete_powder"
+      },
+      "name": "default"
+    }
+  }
+}

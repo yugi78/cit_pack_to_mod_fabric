@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dead_bush_cny",
+        "3": "dead_bush_vase",
+        "particle": "dead_bush_cny"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "glass_bottle_1",
+        "1": "glass_bottle_2"
+      },
+      "name": "default"
+    }
+  }
+}

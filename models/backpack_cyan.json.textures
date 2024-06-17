@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cyan_wool",
+        "1": "dark_prismarine",
+        "2": "iron_ingot_0",
+        "particle": "cyan_wool"
+      },
+      "name": "default"
+    }
+  }
+}

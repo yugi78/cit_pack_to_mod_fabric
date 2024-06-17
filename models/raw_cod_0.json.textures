@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "raw_cod_0",
+        "1": "spruce_planks_mod"
+      },
+      "name": "default"
+    }
+  }
+}

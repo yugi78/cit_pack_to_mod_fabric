@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lily_of_the_valley_0",
+        "1": "lily_of_the_valley_0_01"
+      },
+      "name": "default"
+    }
+  }
+}

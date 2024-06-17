@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "barrel_a2",
+        "1": "barrel_a2_top",
+        "particle": "barrel_a2"
+      },
+      "name": "default"
+    }
+  }
+}

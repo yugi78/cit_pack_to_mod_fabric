@@ -1,0 +1,18 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/succulent3",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/coarse_dirt",
+        "0": "garden_breeze_fabric_mod:block/coarse_dirt",
+        "1": "garden_breeze_fabric_mod:block/stone_slab_top",
+        "2": "garden_breeze_fabric_mod:block/succulent1",
+        "3": "garden_breeze_fabric_mod:block/succulent2",
+        "2_1": "garden_breeze_fabric_mod:block/cactus_1",
+        "3_0": "garden_breeze_fabric_mod:block/grass_5",
+        "top": "garden_breeze_fabric_mod:block/grass_5c",
+        "middle": "garden_breeze_fabric_mod:block/grass_5b",
+        "lower": "garden_breeze_fabric_mod:block/grass_5a",
+        "2_0": "garden_breeze_fabric_mod:block/cactus_0"
+    },
+    "render_type": "translucent"
+}

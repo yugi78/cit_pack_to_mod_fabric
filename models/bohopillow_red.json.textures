@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "redmandala",
+        "1": "redmandalatrans",
+        "particle": "redmandala"
+      },
+      "name": "default"
+    }
+  }
+}

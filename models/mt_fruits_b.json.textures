@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "rattan_closet_side",
+        "1": "c",
+        "2": "box_vege2",
+        "3": "c",
+        "4": "rattan_closet_side",
+        "5": "fluits",
+        "7": "box_vege5",
+        "lower": "dish_wood"
+      },
+      "name": "default"
+    }
+  }
+}

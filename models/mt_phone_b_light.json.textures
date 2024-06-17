@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "telephone_b_body_oak",
+        "body": "telephone_b_body_oak",
+        "body2": "telephone_b_body_oak2",
+        "parts": "telephone_b_parts_oak"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "basket": "box_vege_bottom",
+        "bread": "bread",
+        "particle": "box_vege_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

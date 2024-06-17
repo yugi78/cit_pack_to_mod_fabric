@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/beachchair1pink",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/pink",
+        "particle": "garden_breeze_fabric_mod:block/stripped_oak_log",
+        "0": "garden_breeze_fabric_mod:block/stripped_oak_log",
+        "1": "garden_breeze_fabric_mod:block/pink"
+    },
+    "render_type": "cutout"
+}

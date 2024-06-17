@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "blue_ice",
+        "2": "gray_concrete",
+        "2_0": "potion_0",
+        "particle": "gray_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

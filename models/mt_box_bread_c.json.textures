@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "basket": "bread_basket",
+        "bread": "bread2",
+        "particle": "bread_basket"
+      },
+      "name": "default"
+    }
+  }
+}

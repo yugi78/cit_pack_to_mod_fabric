@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "knit_terracotta_border",
+        "1": "quilt_lightblue",
+        "2": "quilt_purple",
+        "3": "oak",
+        "particle": "knit_terracotta_border"
+      },
+      "name": "default"
+    }
+  }
+}

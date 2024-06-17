@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/jellyroll_matcha",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/beetroot_0",
+        "1": "garden_breeze_fabric_mod:block/jellyroll_sponge",
+        "2": "garden_breeze_fabric_mod:block/white_concrete_powder",
+        "3": "garden_breeze_fabric_mod:block/flowers_1",
+        "4": "garden_breeze_fabric_mod:block/vine_4a",
+        "1_1_2": "garden_breeze_fabric_mod:block/icecream_vanilla"
+    },
+    "render_type": "cutout"
+}

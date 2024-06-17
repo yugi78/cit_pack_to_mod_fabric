@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "red_tulip_mod",
+        "1": "red_tulip_mod",
+        "1_0": "tulip_planter",
+        "1_1": "tulip_planter_01"
+      },
+      "name": "default"
+    }
+  }
+}

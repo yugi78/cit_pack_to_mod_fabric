@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bread_2",
+        "1": "grass_path_top",
+        "2": "spruce_planks",
+        "4_1": "potato_0"
+      },
+      "name": "default"
+    }
+  }
+}

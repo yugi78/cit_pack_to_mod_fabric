@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "orange_planks",
+        "1": "pillow1",
+        "particle": "orange_planks"
+      },
+      "name": "default"
+    }
+  }
+}

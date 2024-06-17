@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "main": "f1"
+      },
+      "name": "default"
+    }
+  }
+}

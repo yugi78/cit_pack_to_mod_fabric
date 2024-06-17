@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "light_gray_wool",
+        "1": "anvil",
+        "2": "iron_ingot_0",
+        "particle": "light_gray_wool"
+      },
+      "name": "default"
+    }
+  }
+}

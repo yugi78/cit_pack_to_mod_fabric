@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "drinkdispenser_1a",
+        "1": "drinkdispenser_1",
+        "particle": "drinkdispenser_1a"
+      },
+      "name": "default"
+    }
+  }
+}

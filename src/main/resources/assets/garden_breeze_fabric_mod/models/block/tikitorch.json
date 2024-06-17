@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/tikitorch",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/beetroot_0",
+        "main": "garden_breeze_fabric_mod:block/tikitorch1"
+    },
+    "render_type": "cutout"
+}

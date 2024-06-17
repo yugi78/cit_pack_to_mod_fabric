@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1_0": "pumpkin_seeds_0",
+        "particle": "book_and_quill_0",
+        "2_1": "book_and_quill_0",
+        "2_2": "netherrack",
+        "2_3": "eyeball"
+      },
+      "name": "default"
+    }
+  }
+}

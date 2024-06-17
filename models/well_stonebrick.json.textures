@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stone_bricks",
+        "1": "bucket_1b",
+        "2": "waterstill",
+        "3": "barrel_6b",
+        "4": "spruce_planks_vertical",
+        "5": "spruce_log",
+        "6": "lead_knot",
+        "particle": "stone_bricks",
+        "1_0": "bucket_1a"
+      },
+      "name": "default"
+    }
+  }
+}

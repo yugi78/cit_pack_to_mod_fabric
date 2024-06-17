@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_pitcher",
+        "1": "rose_pink_top",
+        "particle": "iron_pitcher"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/dreamcatcher_wall_red",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/dreamcatchernet",
+        "0": "garden_breeze_fabric_mod:block/dreamcatchernet",
+        "1": "garden_breeze_fabric_mod:block/feathers",
+        "2": "garden_breeze_fabric_mod:block/white_concrete",
+        "4": "garden_breeze_fabric_mod:block/redstone_block"
+    },
+    "render_type": "cutout"
+}

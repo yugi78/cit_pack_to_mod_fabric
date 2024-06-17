@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "main": "fairy1"
+      },
+      "name": "default"
+    }
+  }
+}

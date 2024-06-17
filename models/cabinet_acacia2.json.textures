@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "4_0": "stripped_acacia_log",
+        "4_1": "acacia_log_top",
+        "4_2": "furnace_top"
+      },
+      "name": "default"
+    }
+  }
+}

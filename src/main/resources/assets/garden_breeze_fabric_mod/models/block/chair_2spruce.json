@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/chair2spruce",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "particle": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "1_0": "garden_breeze_fabric_mod:block/stripped_spruce_log"
+    },
+    "render_type": "cutout"
+}

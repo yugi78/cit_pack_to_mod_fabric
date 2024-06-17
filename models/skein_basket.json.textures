@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "canasto2",
+        "2": "blue_skein",
+        "3": "cyan_skein",
+        "4": "brown_skein",
+        "5": "green_skein",
+        "6": "purple_skein",
+        "7": "red_skein",
+        "8": "yellow_skein",
+        "particle": "canasto2"
+      },
+      "name": "default"
+    }
+  }
+}

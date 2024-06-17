@@ -1,0 +1,14 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_desktop_writing_a",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/paper_1",
+        "3": "garden_breeze_fabric_mod:block/paper_1",
+        "4": "garden_breeze_fabric_mod:block/desk1",
+        "5": "garden_breeze_fabric_mod:block/moviecamera2",
+        "6": "garden_breeze_fabric_mod:block/bottle_b",
+        "7": "garden_breeze_fabric_mod:block/bunkerslamp0",
+        "8": "garden_breeze_fabric_mod:block/dish_wood"
+    },
+    "render_type": "cutout"
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "painting_decor_15",
+        "1": "painting_decor_15a"
+      },
+      "name": "default"
+    }
+  }
+}

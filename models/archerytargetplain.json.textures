@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "haytarget",
+        "1": "hay_block_top",
+        "2": "stripped_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

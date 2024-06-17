@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "frame": "piano_chair_black_black",
+        "seat": "piano_chair_black_black",
+        "parts": "moviecamera2",
+        "particle": "piano_chair_black_black"
+      },
+      "name": "default"
+    }
+  }
+}

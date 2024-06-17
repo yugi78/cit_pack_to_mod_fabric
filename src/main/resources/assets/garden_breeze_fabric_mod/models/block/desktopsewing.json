@@ -1,0 +1,14 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_desktop_sewing",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/wallpaper_a_magenta",
+        "0": "garden_breeze_fabric_mod:block/sewing_set_0",
+        "1": "garden_breeze_fabric_mod:block/wood_oak_upper_molding",
+        "2": "garden_breeze_fabric_mod:block/wood_oak_column_b_top_parts",
+        "3": "garden_breeze_fabric_mod:block/sewing_set_1",
+        "4": "garden_breeze_fabric_mod:block/wooden_box_white",
+        "5": "garden_breeze_fabric_mod:block/wallpaper_a_magenta"
+    },
+    "render_type": "cutout"
+}

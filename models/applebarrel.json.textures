@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "barrel_0a",
+        "1": "barrelwater",
+        "3": "apple_0"
+      },
+      "name": "default"
+    }
+  }
+}

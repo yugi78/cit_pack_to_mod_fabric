@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/dollhouselblue",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/dollhouse",
+        "0": "garden_breeze_fabric_mod:block/dollhouse",
+        "1": "garden_breeze_fabric_mod:block/dollhouse2",
+        "2": "garden_breeze_fabric_mod:block/red",
+        "3": "garden_breeze_fabric_mod:block/barrel_0b",
+        "4": "garden_breeze_fabric_mod:block/cut_sandstone"
+    },
+    "render_type": "cutout"
+}

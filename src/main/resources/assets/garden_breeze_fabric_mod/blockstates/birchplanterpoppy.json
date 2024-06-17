@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "garden_breeze_fabric_mod:block/birchplanterpoppy"
+    },
+    "facing=east": {
+      "model": "garden_breeze_fabric_mod:block/birchplanterpoppy",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "garden_breeze_fabric_mod:block/birchplanterpoppy",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "garden_breeze_fabric_mod:block/birchplanterpoppy",
+      "y": 270
+    }
+  }
+}

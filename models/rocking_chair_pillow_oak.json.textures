@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_oak_log_mod",
+        "1": "knit_green",
+        "particle": "knit_green"
+      },
+      "name": "default"
+    }
+  }
+}

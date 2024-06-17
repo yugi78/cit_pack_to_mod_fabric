@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "pot_rattan",
+        "1": "pot_rattan",
+        "2": "wool_colored_yellow",
+        "3": "wool_colored_red",
+        "4": "wool_colored_lime",
+        "5": "wool_colored_white",
+        "6": "wood_oak_upper_molding",
+        "7": "knitting_part"
+      },
+      "name": "default"
+    }
+  }
+}

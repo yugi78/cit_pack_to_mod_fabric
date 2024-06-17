@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bowl_7",
+        "1_0": "water_still"
+      },
+      "name": "default"
+    }
+  }
+}

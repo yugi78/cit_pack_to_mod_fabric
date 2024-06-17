@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "glow_brries_0",
+        "1": "basket"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_spruce_log",
+        "1": "iron_ingot_0",
+        "2": "stew_0",
+        "particle": "stripped_spruce_log"
+      },
+      "name": "default"
+    }
+  }
+}

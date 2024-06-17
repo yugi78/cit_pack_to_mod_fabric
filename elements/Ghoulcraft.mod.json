@@ -1,0 +1,11 @@
+{
+  "_fv": 60,
+  "_type": "tab",
+  "definition": {
+    "name": "Ghoulcraft",
+    "icon": {
+      "value": "Blocks.MELON_BLOCK"
+    },
+    "showSearch": false
+  }
+}

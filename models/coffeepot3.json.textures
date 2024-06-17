@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cyan_concrete",
+        "1": "anvil",
+        "2": "black_concrete",
+        "3": "potion_0",
+        "4": "light_gray_concrete",
+        "particle": "cyan_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

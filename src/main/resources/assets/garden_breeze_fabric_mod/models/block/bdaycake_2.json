@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/bdaycake_r",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/candle",
+        "particle": "garden_breeze_fabric_mod:block/red_concrete_powder",
+        "1": "garden_breeze_fabric_mod:block/sand",
+        "2": "garden_breeze_fabric_mod:block/red_wool",
+        "3": "garden_breeze_fabric_mod:block/red_concrete_powder",
+        "4": "garden_breeze_fabric_mod:block/candle",
+        "5": "garden_breeze_fabric_mod:block/bone_block_side"
+    },
+    "render_type": "cutout"
+}

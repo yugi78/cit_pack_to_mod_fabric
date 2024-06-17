@@ -1,0 +1,11 @@
+{
+  "_fv": 60,
+  "_type": "tab",
+  "definition": {
+    "name": "Nature",
+    "icon": {
+      "value": "Blocks.SWEET_BERRY_BUSH"
+    },
+    "showSearch": false
+  }
+}

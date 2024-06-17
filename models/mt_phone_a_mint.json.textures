@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "telephone_a_body_mint",
+        "body": "telephone_a_body_mint",
+        "parts": "telephone_a_parts_mint"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "plate_black",
+        "1": "bowl_5b"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_food_salmon",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/meat_salmon",
+        "steak": "garden_breeze_fabric_mod:block/meat_salmon",
+        "knife_fork": "garden_breeze_fabric_mod:block/cookware_parts",
+        "dish": "garden_breeze_fabric_mod:block/dish",
+        "source": "garden_breeze_fabric_mod:block/white_source"
+    },
+    "render_type": "cutout"
+}

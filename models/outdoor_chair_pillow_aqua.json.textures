@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "aqua_planks",
+        "1": "pillow1",
+        "particle": "aqua_planks"
+      },
+      "name": "default"
+    }
+  }
+}

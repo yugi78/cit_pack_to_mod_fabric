@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/vase1_pansy",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/porcelain_pitcher",
+    "0": "garden_breeze_fabric_mod:block/porcelain_pitcher",
+    "1": "garden_breeze_fabric_mod:block/pansy"
+  },
+  "render_type": "cutout"
+}

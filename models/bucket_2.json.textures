@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bucket_1",
+        "1": "bucket_1_top",
+        "2": "bucket_2"
+      },
+      "name": "default"
+    }
+  }
+}

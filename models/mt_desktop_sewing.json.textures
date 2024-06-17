@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "wallpaper_a_magenta",
+        "0": "sewing_set_0",
+        "1": "wood_oak_upper_molding",
+        "2": "wood_oak_column_b_top_parts",
+        "3": "sewing_set_1",
+        "4": "wooden_box_white",
+        "5": "wallpaper_a_magenta"
+      },
+      "name": "default"
+    }
+  }
+}

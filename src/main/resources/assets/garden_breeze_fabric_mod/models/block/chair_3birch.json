@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/chair3birch",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/stripped_birch_log",
+        "particle": "garden_breeze_fabric_mod:block/stripped_birch_log",
+        "1_0": "garden_breeze_fabric_mod:block/stripped_birch_log"
+    },
+    "render_type": "cutout"
+}

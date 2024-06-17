@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_spruce_log_a",
+        "1": "oldtv_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

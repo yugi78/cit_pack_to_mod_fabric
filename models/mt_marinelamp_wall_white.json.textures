@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lamplight",
+        "2": "piano_top_white",
+        "particle": "piano_top_white"
+      },
+      "name": "default"
+    }
+  }
+}

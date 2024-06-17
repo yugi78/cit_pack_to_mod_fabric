@@ -1,0 +1,15 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_desktop_writing_b",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/paper_1",
+        "3": "garden_breeze_fabric_mod:block/paper_1",
+        "4": "garden_breeze_fabric_mod:block/desk1",
+        "5": "garden_breeze_fabric_mod:block/moviecamera2",
+        "6": "garden_breeze_fabric_mod:block/street_clock_face",
+        "7": "garden_breeze_fabric_mod:block/streetlamp_gold",
+        "9": "garden_breeze_fabric_mod:block/telephone_a_parts_wood",
+        "10": "garden_breeze_fabric_mod:block/desk2"
+    },
+    "render_type": "cutout"
+}

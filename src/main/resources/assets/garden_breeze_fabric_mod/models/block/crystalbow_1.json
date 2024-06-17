@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/crystalbow1",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/enchanting_table_side_mod",
+        "particle": "garden_breeze_fabric_mod:block/enchanting_table_side_mod",
+        "0": "garden_breeze_fabric_mod:block/packed_ice",
+        "1": "garden_breeze_fabric_mod:block/enchanting_table_side",
+        "2": "garden_breeze_fabric_mod:block/white_wool"
+    },
+    "render_type": "cutout"
+}

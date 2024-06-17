@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "dark_oak_sapling_6",
+        "3": "azure_bluet_1a",
+        "1_0": "pumpkin_seeds_0",
+        "2_1": "book_and_quill_0"
+      },
+      "name": "default"
+    }
+  }
+}

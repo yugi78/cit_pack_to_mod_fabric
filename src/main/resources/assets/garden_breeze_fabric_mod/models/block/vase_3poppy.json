@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/vase3_poppy",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/iron_pitcher",
+    "0": "garden_breeze_fabric_mod:block/iron_pitcher",
+    "1": "garden_breeze_fabric_mod:block/poppy"
+  },
+  "render_type": "cutout"
+}

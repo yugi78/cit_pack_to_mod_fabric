@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_spruce_log_a",
+        "2": "glass_cup",
+        "3": "oldtv",
+        "particle": "stripped_spruce_log_a"
+      },
+      "name": "default"
+    }
+  }
+}

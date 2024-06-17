@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bone_block_side",
+        "3": "ham2",
+        "1_1": "ham1"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lime_wool",
+        "1": "green_concrete_powder",
+        "2": "iron_ingot_0",
+        "particle": "lime_wool"
+      },
+      "name": "default"
+    }
+  }
+}

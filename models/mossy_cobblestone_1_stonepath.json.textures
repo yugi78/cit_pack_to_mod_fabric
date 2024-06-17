@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mossy_cobblestone_mod"
+      },
+      "name": "default"
+    }
+  }
+}

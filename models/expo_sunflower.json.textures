@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "canasto1",
+        "1": "spruce_mod",
+        "2": "sunflower_back",
+        "3": "sunflower_front",
+        "4": "sunflower_stem",
+        "particle": "canasto1"
+      },
+      "name": "default"
+    }
+  }
+}

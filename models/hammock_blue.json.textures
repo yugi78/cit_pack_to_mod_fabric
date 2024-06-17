@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "hammockstring",
+        "1": "blue",
+        "2": "anvil",
+        "3": "stripped_oak_log",
+        "particle": "hammockstring"
+      },
+      "name": "default"
+    }
+  }
+}

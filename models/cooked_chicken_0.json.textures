@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "plate_white",
+        "1": "cooked_chicken_0",
+        "2": "cooked_chicken_0_01"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "dirt_mod",
+        "2": "orange_tulip_mod",
+        "3": "stone_bricks_mod",
+        "5": "iron_block_mod"
+      },
+      "name": "default"
+    }
+  }
+}

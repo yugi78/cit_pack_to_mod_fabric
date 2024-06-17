@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/applebarrel",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/barrelwater",
+        "particle": "garden_breeze_fabric_mod:block/barrelwater",
+        "0": "garden_breeze_fabric_mod:block/barrel_0a",
+        "1": "garden_breeze_fabric_mod:block/barrelwater",
+        "3": "garden_breeze_fabric_mod:block/apple_0"
+    },
+    "render_type": "cutout"
+}

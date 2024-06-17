@@ -1,0 +1,12 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/fabricroll1",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/chess_1",
+    "particle": "garden_breeze_fabric_mod:block/quilt_yellow",
+    "0": "garden_breeze_fabric_mod:block/quilt_yellow",
+    "1": "garden_breeze_fabric_mod:block/knit_lilac_border",
+    "2": "garden_breeze_fabric_mod:block/quilt_pink",
+    "3": "garden_breeze_fabric_mod:block/oak"
+  },
+  "render_type": "cutout"
+}

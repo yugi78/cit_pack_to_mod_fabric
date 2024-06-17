@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "regi1b",
+        "1": "regi2b",
+        "2": "gramophone_parts",
+        "3": "pipe_brass",
+        "particle": "regi1b"
+      },
+      "name": "default"
+    }
+  }
+}

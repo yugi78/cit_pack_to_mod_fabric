@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "chest_4",
+        "1": "chest_4_01"
+      },
+      "name": "default"
+    }
+  }
+}

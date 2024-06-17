@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/painting_decor_34",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/wall_shelf",
+    "1": "garden_breeze_fabric_mod:block/painting_decor_34"
+  },
+  "render_type": "cutout"
+}

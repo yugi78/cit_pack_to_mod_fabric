@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "raw_salmon_1",
+        "1": "raw_salmon_1_01"
+      },
+      "name": "default"
+    }
+  }
+}

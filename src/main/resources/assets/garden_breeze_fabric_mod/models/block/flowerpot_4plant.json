@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/flower_pot_4_plant",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/acacia_planks",
+        "particle": "garden_breeze_fabric_mod:block/flower_pot3",
+        "0": "garden_breeze_fabric_mod:block/flower_pot3",
+        "1": "garden_breeze_fabric_mod:block/stripped_spruce_log_a",
+        "3": "garden_breeze_fabric_mod:block/wood",
+        "4": "garden_breeze_fabric_mod:block/stone_mod"
+    },
+    "render_type": "cutout"
+}

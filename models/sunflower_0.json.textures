@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "sunflower_bottom_mod",
+        "1": "sunflower_top_mod",
+        "2": "sunflower_back_mod",
+        "3": "sunflower_front_mod",
+        "1_0": "flower_pot_l_0c"
+      },
+      "name": "default"
+    }
+  }
+}

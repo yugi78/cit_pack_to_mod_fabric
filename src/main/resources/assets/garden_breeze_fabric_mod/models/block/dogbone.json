@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/dogbone",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/bone_block_side",
+        "0": "garden_breeze_fabric_mod:block/bone_block_side"
+    },
+    "render_type": "cutout"
+}

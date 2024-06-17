@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/1chest_oak",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/double_slab_oak",
+        "particle": "garden_breeze_fabric_mod:block/double_slab_oak",
+        "0": "garden_breeze_fabric_mod:block/double_slab_oak",
+        "1": "garden_breeze_fabric_mod:block/stripped_dark_oak_log",
+        "2": "garden_breeze_fabric_mod:block/black_concrete"
+    },
+    "render_type": "solid"
+}

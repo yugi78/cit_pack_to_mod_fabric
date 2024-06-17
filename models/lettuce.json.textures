@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "veggies2",
+        "particle": "veggies2"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "canasto1",
+        "1": "spruce_mod",
+        "2": "daisy_top",
+        "particle": "canasto1"
+      },
+      "name": "default"
+    }
+  }
+}

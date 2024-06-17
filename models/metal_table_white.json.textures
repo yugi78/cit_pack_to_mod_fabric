@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "metal_back_white",
+        "1": "metal_table_bottom",
+        "2": "metal_table_top_white",
+        "particle": "metal_back_white"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "birch_sapling_4",
+        "1": "birch_sapling_4_01",
+        "1_0": "flower_pot_l_0c"
+      },
+      "name": "default"
+    }
+  }
+}

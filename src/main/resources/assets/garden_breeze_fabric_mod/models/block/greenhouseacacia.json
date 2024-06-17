@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/greenhouse_acacia",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/stripped_acacia_log",
+        "0": "garden_breeze_fabric_mod:block/stripped_acacia_log",
+        "1": "garden_breeze_fabric_mod:block/light_gray_concrete",
+        "2": "garden_breeze_fabric_mod:block/light_gray_stained_glass"
+    },
+    "render_type": "cutout"
+}

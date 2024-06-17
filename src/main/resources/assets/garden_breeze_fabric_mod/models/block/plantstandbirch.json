@@ -1,0 +1,31 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/plantstand_birch",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/beetroot_0",
+        "0": "garden_breeze_fabric_mod:block/birch_planks_vertical",
+        "1": "garden_breeze_fabric_mod:block/double_slab_birch_vertical",
+        "2": "garden_breeze_fabric_mod:block/anvil_top",
+        "1_0": "garden_breeze_fabric_mod:block/coarse_dirt",
+        "2_1": "garden_breeze_fabric_mod:block/cactus_1",
+        "3_0": "garden_breeze_fabric_mod:block/acacia_sapling_0",
+        "2_0": "garden_breeze_fabric_mod:block/double_slab_stonebrick",
+        "2_2": "garden_breeze_fabric_mod:block/succulent1",
+        "4_0": "garden_breeze_fabric_mod:block/birch_sapling_0",
+        "4_1": "garden_breeze_fabric_mod:block/birch_sapling_0a",
+        "4_2": "garden_breeze_fabric_mod:block/birch_sapling_0b",
+        "4_1_0": "garden_breeze_fabric_mod:block/flower_pot_3",
+        "5_0": "garden_breeze_fabric_mod:block/oak_sapling_0",
+        "0_1": "garden_breeze_fabric_mod:block/flower_pot_5",
+        "1_1": "garden_breeze_fabric_mod:block/stone_slab_top",
+        "1_3": "garden_breeze_fabric_mod:block/succulent2",
+        "1_2_1": "garden_breeze_fabric_mod:block/cactus_1",
+        "1_3_0": "garden_breeze_fabric_mod:block/grass_5",
+        "1_top": "garden_breeze_fabric_mod:block/grass_5c",
+        "1_middle": "garden_breeze_fabric_mod:block/grass_5b",
+        "1_lower": "garden_breeze_fabric_mod:block/grass_5a",
+        "1_2_0": "garden_breeze_fabric_mod:block/cactus_0",
+        "1_2": "garden_breeze_fabric_mod:block/succulent1"
+    },
+    "render_type": "cutout"
+}

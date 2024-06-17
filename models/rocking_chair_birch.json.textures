@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_birch_log_mod",
+        "particle": "stripped_birch_log_mod"
+      },
+      "name": "default"
+    }
+  }
+}

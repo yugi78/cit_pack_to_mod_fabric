@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/trough_water",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "0": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "1": "garden_breeze_fabric_mod:block/spruce_planks",
+        "2": "garden_breeze_fabric_mod:block/waterstill"
+    },
+    "render_type": "cutout"
+}

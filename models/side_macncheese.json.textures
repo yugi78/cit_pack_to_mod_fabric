@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bone_block_side",
+        "1": "hay_block_top",
+        "2": "goldfleck",
+        "particle": "bone_block_side"
+      },
+      "name": "default"
+    }
+  }
+}

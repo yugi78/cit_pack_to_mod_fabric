@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dark_oak_log",
+        "1": "light_gray_concrete",
+        "2": "gray_concrete",
+        "particle": "dark_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

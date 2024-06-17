@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/vase2_rose_pink",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/porcelain_pitcher",
+    "0": "garden_breeze_fabric_mod:block/porcelain_pitcher",
+    "1": "garden_breeze_fabric_mod:block/rose_pink_top"
+  },
+  "render_type": "cutout"
+}

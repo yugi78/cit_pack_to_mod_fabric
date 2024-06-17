@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bone_block_top",
+        "1": "stripped_birch_log"
+      },
+      "name": "default"
+    }
+  }
+}

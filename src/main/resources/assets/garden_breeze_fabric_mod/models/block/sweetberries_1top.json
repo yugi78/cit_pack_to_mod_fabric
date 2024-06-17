@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/sweet_berries_1_top",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/basket",
+    "1": "garden_breeze_fabric_mod:block/basket_0",
+    "2": "garden_breeze_fabric_mod:block/sweet_brrries_0"
+  },
+  "render_type": "cutout"
+}

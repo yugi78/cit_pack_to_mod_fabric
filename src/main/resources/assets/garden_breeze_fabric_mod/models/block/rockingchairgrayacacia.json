@@ -1,0 +1,9 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/rocking_chair_grayacacia",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/chess_1",
+    "particle": "garden_breeze_fabric_mod:block/gray_acacia",
+    "0": "garden_breeze_fabric_mod:block/gray_acacia"
+  },
+  "render_type": "cutout"
+}

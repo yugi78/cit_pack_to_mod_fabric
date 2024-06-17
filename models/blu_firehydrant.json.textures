@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "blue_concrete_powder",
+        "1": "acacia_planks",
+        "particle": "blue_concrete_powder"
+      },
+      "name": "default"
+    }
+  }
+}

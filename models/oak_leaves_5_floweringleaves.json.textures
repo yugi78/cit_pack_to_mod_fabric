@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "leaves_flower7",
+        "1": "leaves_flower2",
+        "2": "leaves_flower8",
+        "3": "leaves_flower4"
+      },
+      "name": "default"
+    }
+  }
+}

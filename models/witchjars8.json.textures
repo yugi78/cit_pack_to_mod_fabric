@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1_0": "pumpkin_seeds_0",
+        "2_1": "book_and_quill_0",
+        "8_2": "horn_coral",
+        "8_3": "leather_0"
+      },
+      "name": "default"
+    }
+  }
+}

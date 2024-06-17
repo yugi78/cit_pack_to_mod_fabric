@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "table_pink_top",
+        "2": "table_pink_parts",
+        "3": "table_pink_top",
+        "particle": "table_pink_top"
+      },
+      "name": "default"
+    }
+  }
+}

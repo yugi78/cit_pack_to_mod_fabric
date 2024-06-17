@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gold_block_0",
+        "2": "iron_ingot_0",
+        "3": "pink_tulip",
+        "particle": "gold_block_0"
+      },
+      "name": "default"
+    }
+  }
+}

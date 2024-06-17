@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/raw_porkchop_3",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/raw_meat_hook",
+    "1": "garden_breeze_fabric_mod:block/raw_porkchop_2",
+    "2": "garden_breeze_fabric_mod:block/raw_porkchop_3"
+  },
+  "render_type": "cutout"
+}

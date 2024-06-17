@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "limemandala",
+        "1": "limemandalatransparent",
+        "particle": "limemandala"
+      },
+      "name": "default"
+    }
+  }
+}

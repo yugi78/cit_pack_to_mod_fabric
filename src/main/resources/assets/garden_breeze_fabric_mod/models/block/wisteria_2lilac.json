@@ -1,0 +1,9 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/wisteria_2_lilac",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/wisteria",
+    "0": "garden_breeze_fabric_mod:block/wisteria"
+  },
+  "render_type": "cutout"
+}

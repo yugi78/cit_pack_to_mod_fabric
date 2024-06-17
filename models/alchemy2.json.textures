@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "fire_coral_block",
+        "2": "gray_concrete",
+        "3": "tube_coral_block",
+        "2_0": "potion_0",
+        "particle": "gray_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

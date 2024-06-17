@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_ingot_0",
+        "1": "carrot_0",
+        "2": "potato_0",
+        "3": "dark_oak_log_top",
+        "particle": "iron_ingot_0"
+      },
+      "name": "default"
+    }
+  }
+}

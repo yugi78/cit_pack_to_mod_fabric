@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/ice_cream_s",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/icecream_swirl",
+        "1": "garden_breeze_fabric_mod:block/cone",
+        "2": "garden_breeze_fabric_mod:block/icecream_swirl",
+        "3": "garden_breeze_fabric_mod:block/cherry"
+    },
+    "render_type": "cutout"
+}

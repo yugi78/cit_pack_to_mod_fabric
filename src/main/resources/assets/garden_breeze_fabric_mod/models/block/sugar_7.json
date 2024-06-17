@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/sugar_7",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/sugar_5_jar",
+    "1": "garden_breeze_fabric_mod:block/sugar_7"
+  },
+  "render_type": "translucent"
+}

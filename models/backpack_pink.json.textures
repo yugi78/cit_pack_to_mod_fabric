@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "pink_concrete",
+        "1": "pink_tulip",
+        "2": "iron_ingot_0",
+        "particle": "pink_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

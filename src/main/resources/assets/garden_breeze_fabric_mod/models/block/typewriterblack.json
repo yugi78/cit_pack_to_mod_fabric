@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_typewriter_black",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/typewriter_black_body",
+        "body": "garden_breeze_fabric_mod:block/typewriter_black_body",
+        "body2": "garden_breeze_fabric_mod:block/typewriter_black_body2",
+        "parts": "garden_breeze_fabric_mod:block/typewriter_black_parts",
+        "paper": "garden_breeze_fabric_mod:block/typewriter_paper"
+    },
+    "render_type": "cutout"
+}

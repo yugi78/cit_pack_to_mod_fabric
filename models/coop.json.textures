@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_spruce_log",
+        "1": "oak_planks",
+        "2": "hay_block_top",
+        "3": "black_concrete",
+        "4": "furnace_top",
+        "particle": "stripped_spruce_log"
+      },
+      "name": "default"
+    }
+  }
+}

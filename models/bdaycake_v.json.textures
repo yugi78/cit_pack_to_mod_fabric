@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "white_concrete_powder",
+        "2": "red_concrete_powder",
+        "3": "cake_side_1",
+        "4": "candle",
+        "5": "bone_block_side",
+        "particle": "candle"
+      },
+      "name": "default"
+    }
+  }
+}

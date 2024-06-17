@@ -1,0 +1,14 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_fruits_a",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/rattan_closet_side",
+        "1": "garden_breeze_fabric_mod:block/c",
+        "2": "garden_breeze_fabric_mod:block/box_vege2",
+        "3": "garden_breeze_fabric_mod:block/c",
+        "4": "garden_breeze_fabric_mod:block/rattan_closet_side",
+        "5": "garden_breeze_fabric_mod:block/fluits",
+        "7": "garden_breeze_fabric_mod:block/box_vege5"
+    },
+    "render_type": "cutout"
+}

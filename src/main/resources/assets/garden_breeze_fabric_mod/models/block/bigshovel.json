@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/big_shovel",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/pile_of_dirt",
+    "particle": "garden_breeze_fabric_mod:block/pile_of_dirt",
+    "0": "garden_breeze_fabric_mod:block/pile_of_dirt",
+    "2": "garden_breeze_fabric_mod:block/iron_pitcher",
+    "3": "garden_breeze_fabric_mod:block/oak_planks_mod"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cyan_wool_mod"
+      },
+      "name": "default"
+    }
+  }
+}

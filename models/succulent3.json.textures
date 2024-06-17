@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "coarse_dirt",
+        "1": "stone_slab_top",
+        "2": "succulent1",
+        "3": "succulent2",
+        "particle": "coarse_dirt",
+        "2_1": "cactus_1",
+        "3_0": "grass_5",
+        "top": "grass_5c",
+        "middle": "grass_5b",
+        "lower": "grass_5a",
+        "2_0": "cactus_0"
+      },
+      "name": "default"
+    }
+  }
+}

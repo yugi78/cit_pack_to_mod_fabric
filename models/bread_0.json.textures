@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bread_0",
+        "1": "bread_1"
+      },
+      "name": "default"
+    }
+  }
+}

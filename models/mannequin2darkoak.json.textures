@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "maniqui_darkoak",
+        "particle": "maniqui_darkoak"
+      },
+      "name": "default"
+    }
+  }
+}

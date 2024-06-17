@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "bundt",
+        "2": "white_concrete_powder",
+        "3": "apple_0",
+        "4": "jungle_sapling_2",
+        "particle": "bundt"
+      },
+      "name": "default"
+    }
+  }
+}

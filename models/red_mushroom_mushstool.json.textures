@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "red_mushroom_block_mod",
+        "1": "mushroom_stem_mod",
+        "2": "mushroom_block_inside_mod"
+      },
+      "name": "default"
+    }
+  }
+}

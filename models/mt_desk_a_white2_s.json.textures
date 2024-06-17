@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "table_marron_top",
+        "2": "table_white_brown_parts",
+        "3": "table_white_top",
+        "particle": "table_white_top"
+      },
+      "name": "default"
+    }
+  }
+}

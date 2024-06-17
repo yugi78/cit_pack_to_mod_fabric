@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/bonerunes3",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/runes",
+        "particle": "garden_breeze_fabric_mod:block/runes",
+        "0": "garden_breeze_fabric_mod:block/redstone_0",
+        "1": "garden_breeze_fabric_mod:block/runes",
+        "2": "garden_breeze_fabric_mod:block/birch_log_top",
+        "3": "garden_breeze_fabric_mod:block/stripped_spruce_log"
+    },
+    "render_type": "cutout"
+}

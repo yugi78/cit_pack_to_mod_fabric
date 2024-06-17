@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1_0": "peony_bottom_mod",
+        "0": "peony_top_mod",
+        "1": "flower_pot_l_0"
+      },
+      "name": "default"
+    }
+  }
+}

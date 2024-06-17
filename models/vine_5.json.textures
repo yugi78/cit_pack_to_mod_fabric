@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "vine_5_00_top",
+        "1": "vine_5_00_bottom",
+        "2": "vine_5_01_top",
+        "3": "vine_5_01_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

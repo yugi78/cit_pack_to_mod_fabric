@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "coal_block",
+        "7_1": "white_concrete",
+        "particle": "white_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

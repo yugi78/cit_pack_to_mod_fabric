@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dreamcatchernet",
+        "1": "feathers",
+        "2": "green_concrete",
+        "4": "lime_concrete",
+        "particle": "dreamcatchernet"
+      },
+      "name": "default"
+    }
+  }
+}

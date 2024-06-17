@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "maniqui_spruce",
+        "particle": "maniqui_spruce"
+      },
+      "name": "default"
+    }
+  }
+}

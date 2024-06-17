@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dandelion_0",
+        "1": "dandelion_0_01",
+        "1_0": "hanging_basket"
+      },
+      "name": "default"
+    }
+  }
+}

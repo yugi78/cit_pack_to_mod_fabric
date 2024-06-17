@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "garden_breeze_fabric_mod",
+  "version": "1.0.0",
+  "name": "garden breeze fabric mod",
+  "authors": [
+    "Hugo, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Not specified",
+  "accessWidener": "garden_breeze_fabric_mod.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.gardenbreezefabricmod.GardenBreezeFabricModMod"
+    ],
+    "client": [
+      "net.mcreator.gardenbreezefabricmod.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "garden_breeze_fabric_mod.mixins.json"
+  ]
+}

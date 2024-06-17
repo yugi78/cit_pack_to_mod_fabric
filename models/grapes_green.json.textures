@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "jungle_leaves_0",
+        "1": "fence_spruce",
+        "2": "grapes",
+        "1_0": "oak_log",
+        "particle": "oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

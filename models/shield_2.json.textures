@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "shield_2",
+        "1_0": "iron_shamshir"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "garden_breeze_fabric_mod:block/torch_3bwall"
+    },
+    "facing=east": {
+      "model": "garden_breeze_fabric_mod:block/torch_3bwall",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "garden_breeze_fabric_mod:block/torch_3bwall",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "garden_breeze_fabric_mod:block/torch_3bwall",
+      "y": 270
+    }
+  }
+}

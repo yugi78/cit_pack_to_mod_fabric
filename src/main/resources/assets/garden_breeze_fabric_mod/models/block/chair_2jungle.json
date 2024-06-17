@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/chair2jungle",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/stripped_jungle_log",
+        "particle": "garden_breeze_fabric_mod:block/stripped_jungle_log",
+        "1_0": "garden_breeze_fabric_mod:block/stripped_jungle_log"
+    },
+    "render_type": "cutout"
+}

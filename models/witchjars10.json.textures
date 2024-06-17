@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "barrel_4b",
+        "2": "barrel_5b",
+        "particle": "barrel_4b",
+        "1_0": "pumpkin_seeds_0"
+      },
+      "name": "default"
+    }
+  }
+}

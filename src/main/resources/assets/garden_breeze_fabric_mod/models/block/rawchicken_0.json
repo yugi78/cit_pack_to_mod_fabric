@@ -1,0 +1,9 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/raw_chicken_0",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/raw_chicken_0"
+  },
+  "render_type": "cutout"
+}

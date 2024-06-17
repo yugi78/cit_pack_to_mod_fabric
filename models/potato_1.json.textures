@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "basket",
+        "1": "potato_0"
+      },
+      "name": "default"
+    }
+  }
+}

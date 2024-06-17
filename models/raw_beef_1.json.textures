@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_oak_log_top_mod",
+        "1": "oak_log_mod",
+        "2": "raw_beef_1"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "table_mint_top",
+        "2": "table_mint_parts",
+        "3": "table_mint_top",
+        "particle": "table_mint_top"
+      },
+      "name": "default"
+    }
+  }
+}

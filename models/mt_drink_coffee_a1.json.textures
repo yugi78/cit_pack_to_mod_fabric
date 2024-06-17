@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dish",
+        "1": "lamppost_bottom_brown",
+        "2": "hot",
+        "particle": "dish"
+      },
+      "name": "default"
+    }
+  }
+}

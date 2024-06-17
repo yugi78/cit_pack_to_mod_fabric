@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "cabinet": "stripped_acacia_log_0",
+        "handle": "handle_dark"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "plate_green",
+        "1": "cooked_porkchop_0"
+      },
+      "name": "default"
+    }
+  }
+}

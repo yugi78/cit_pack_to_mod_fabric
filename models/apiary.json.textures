@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "black_concrete_powder",
+        "1": "stripped_spruce_log",
+        "2": "oak_planks",
+        "3": "birch_planks",
+        "4": "furnace_top",
+        "particle": "black_concrete_powder"
+      },
+      "name": "default"
+    }
+  }
+}

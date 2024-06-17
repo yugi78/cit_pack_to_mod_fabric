@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cupcakewrapper",
+        "4": "greencupcake",
+        "particle": "blackcupcake"
+      },
+      "name": "default"
+    }
+  }
+}

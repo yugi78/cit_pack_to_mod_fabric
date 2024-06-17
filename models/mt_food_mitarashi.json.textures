@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mitarashi_dango",
+        "particle": "mitarashi_dango"
+      },
+      "name": "default"
+    }
+  }
+}

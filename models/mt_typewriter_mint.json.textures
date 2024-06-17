@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "typewriter_black_mint_mod",
+        "body": "typewriter_mint_body",
+        "body2": "typewriter_mint_body2",
+        "parts": "typewriter_mint_parts",
+        "paper": "typewriter_paper"
+      },
+      "name": "default"
+    }
+  }
+}

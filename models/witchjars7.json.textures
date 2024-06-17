@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "brain_coral_fan",
+        "3": "tube_coral",
+        "1_0": "pumpkin_seeds_0",
+        "2_1": "book_and_quill_0"
+      },
+      "name": "default"
+    }
+  }
+}

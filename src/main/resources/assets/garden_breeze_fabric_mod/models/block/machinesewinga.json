@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_machine_sewing_a",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/table_marron_top",
+        "0": "garden_breeze_fabric_mod:block/sewing0",
+        "1": "garden_breeze_fabric_mod:block/sewing1",
+        "2": "garden_breeze_fabric_mod:block/brass_parts",
+        "3": "garden_breeze_fabric_mod:block/sewing2",
+        "4": "garden_breeze_fabric_mod:block/table_marron_top"
+    },
+    "render_type": "cutout"
+}

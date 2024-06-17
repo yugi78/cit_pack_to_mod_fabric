@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wall_shelfa",
+        "1_0": "sugar_1"
+      },
+      "name": "default"
+    }
+  }
+}

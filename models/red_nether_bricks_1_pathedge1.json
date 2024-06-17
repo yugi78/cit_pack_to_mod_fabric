@@ -1,0 +1,6 @@
+{
+	"parent": "./pathedge1",
+	"textures": {
+		"0": "block/red_nether_bricks"
+	}
+}

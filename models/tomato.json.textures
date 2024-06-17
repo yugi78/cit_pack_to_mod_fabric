@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "veggies",
+        "2": "jungle_log",
+        "3": "light_gray_concrete",
+        "particle": "veggies",
+        "1_0": "grass_8"
+      },
+      "name": "default"
+    }
+  }
+}

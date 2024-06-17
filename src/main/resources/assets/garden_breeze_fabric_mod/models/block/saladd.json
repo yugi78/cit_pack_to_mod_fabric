@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_salad_d",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/dish_salad_b",
+        "0": "garden_breeze_fabric_mod:block/dish_salad_b",
+        "1": "garden_breeze_fabric_mod:block/dish",
+        "2": "garden_breeze_fabric_mod:block/cookware_parts",
+        "3": "garden_breeze_fabric_mod:block/bottle_b"
+    },
+    "render_type": "cutout"
+}

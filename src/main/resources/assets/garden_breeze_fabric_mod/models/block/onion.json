@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/onion",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/veggies2",
+        "0": "garden_breeze_fabric_mod:block/veggies2",
+        "1": "garden_breeze_fabric_mod:block/veggies"
+    },
+    "render_type": "cutout"
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/big_white_pumpkin",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/white_pumpkin_top",
+        "particle": "garden_breeze_fabric_mod:block/pumpkin_side",
+        "2": "garden_breeze_fabric_mod:block/oak_log",
+        "3": "garden_breeze_fabric_mod:block/jungle_sapling_4",
+        "2_0": "garden_breeze_fabric_mod:block/white_pumpkin_side",
+        "2_1": "garden_breeze_fabric_mod:block/white_pumpkin_top"
+    },
+    "render_type": "cutout"
+}

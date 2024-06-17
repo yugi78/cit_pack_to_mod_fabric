@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/witchjars5",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/beetroot_0",
+        "2": "garden_breeze_fabric_mod:block/brown_mushroom",
+        "3": "garden_breeze_fabric_mod:block/dead_fire_coral",
+        "1_0": "garden_breeze_fabric_mod:block/pumpkin_seeds_0",
+        "2_1": "garden_breeze_fabric_mod:block/book_and_quill_0"
+    },
+    "render_type": "translucent"
+}

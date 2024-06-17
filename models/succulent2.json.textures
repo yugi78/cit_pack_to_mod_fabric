@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gray_stained_glass",
+        "1": "coarse_dirt",
+        "2": "succulent1",
+        "particle": "gray_stained_glass"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_ingot_0",
+        "1": "ham1",
+        "3": "ham2",
+        "4": "oak_sapling_0",
+        "particle": "iron_ingot_0"
+      },
+      "name": "default"
+    }
+  }
+}

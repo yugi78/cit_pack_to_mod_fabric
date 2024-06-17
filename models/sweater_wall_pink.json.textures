@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "sweater_pink",
+        "particle": "sweater_pink"
+      },
+      "name": "default"
+    }
+  }
+}

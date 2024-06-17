@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/milk_boba_tea",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/beetroot_0",
+        "0": "garden_breeze_fabric_mod:block/bubble_tea1"
+    },
+    "render_type": "translucent"
+}

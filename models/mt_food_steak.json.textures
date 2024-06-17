@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "steak": "meat_steak",
+        "knife_fork": "cookware_parts",
+        "particle": "meat_steak"
+      },
+      "name": "default"
+    }
+  }
+}

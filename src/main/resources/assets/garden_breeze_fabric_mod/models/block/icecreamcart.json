@@ -1,0 +1,18 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/icecreamcart",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/beetroot_0",
+        "1": "garden_breeze_fabric_mod:block/cone",
+        "3": "garden_breeze_fabric_mod:block/white_stained_glass",
+        "4": "garden_breeze_fabric_mod:block/white_concrete",
+        "5": "garden_breeze_fabric_mod:block/white_wool",
+        "6": "garden_breeze_fabric_mod:block/stripped_oak_log",
+        "7": "garden_breeze_fabric_mod:block/pink_wool",
+        "8": "garden_breeze_fabric_mod:block/waterstill",
+        "9": "garden_breeze_fabric_mod:block/icecreamcart",
+        "2_1": "garden_breeze_fabric_mod:block/light_gray_concrete",
+        "3_1": "garden_breeze_fabric_mod:block/stripe_pink"
+    },
+    "render_type": "solid"
+}

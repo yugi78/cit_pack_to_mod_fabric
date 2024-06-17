@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "leaves_flower1",
+        "1": "leaves_flower2",
+        "2": "leaves_flower3",
+        "3": "leaves_flower4",
+        "particle": "leaves_flower1"
+      },
+      "name": "default"
+    }
+  }
+}

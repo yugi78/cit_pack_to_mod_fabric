@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "maceta_2",
+        "4": "plant_5"
+      },
+      "name": "default"
+    }
+  }
+}

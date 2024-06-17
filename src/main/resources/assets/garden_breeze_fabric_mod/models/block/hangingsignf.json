@@ -1,0 +1,15 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_hanging_sign_f",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/lamppost_clock_brown_2",
+        "0": "garden_breeze_fabric_mod:block/lamppost_arm_brown",
+        "1": "garden_breeze_fabric_mod:block/lamppost_clock_brown_2",
+        "2": "garden_breeze_fabric_mod:block/lamppost_brown",
+        "3": "garden_breeze_fabric_mod:block/fence_iron_a_brown_parts",
+        "4": "garden_breeze_fabric_mod:block/lamp_arm_brown",
+        "5": "garden_breeze_fabric_mod:block/chain_thin_black",
+        "6": "garden_breeze_fabric_mod:block/hanging_sign_f"
+    },
+    "render_type": "cutout"
+}

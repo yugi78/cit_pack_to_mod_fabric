@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "flowerpot": "flower_pot_1",
+        "plant": "spruce_sapling_0",
+        "dirt": "dirt_mod"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "potion_0",
+        "1": "potion_overlay"
+      },
+      "name": "default"
+    }
+  }
+}

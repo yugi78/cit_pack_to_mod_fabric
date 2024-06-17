@@ -1,0 +1,32 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "oak_planks_vertical",
+        "1": "oak_planks",
+        "2": "anvil_top",
+        "1_0": "coarse_dirt",
+        "2_1": "cactus_1",
+        "3_0": "acacia_sapling_0",
+        "2_0": "double_slab_stonebrick",
+        "2_2": "succulent1",
+        "4_0": "birch_sapling_0",
+        "4_1": "birch_sapling_0a",
+        "4_2": "birch_sapling_0b",
+        "4_1_0": "flower_pot_3",
+        "5_0": "oak_sapling_0",
+        "0_1": "flower_pot_5",
+        "1_1": "stone_slab_top",
+        "1_3": "succulent2",
+        "1_2_1": "cactus_1",
+        "1_3_0": "grass_5",
+        "1_top": "grass_5c",
+        "1_middle": "grass_5b",
+        "1_lower": "grass_5a",
+        "1_2_0": "cactus_0",
+        "1_2": "succulent1"
+      },
+      "name": "default"
+    }
+  }
+}

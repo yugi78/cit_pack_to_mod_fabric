@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/pie_lemon",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/icecream_vanilla",
+        "0": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "1": "garden_breeze_fabric_mod:block/oak_log_top",
+        "2": "garden_breeze_fabric_mod:block/egg_1",
+        "1_2": "garden_breeze_fabric_mod:block/icecream_vanilla"
+    },
+    "render_type": "cutout"
+}

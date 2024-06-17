@@ -1,0 +1,22 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_drink_juice_a2",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/leaves_dogwood_flowers",
+        "0": "garden_breeze_fabric_mod:block/bottle_b",
+        "1": "garden_breeze_fabric_mod:block/leaves_bougainvillea_purple_flowers",
+        "2": "garden_breeze_fabric_mod:block/awning_white",
+        "6": "garden_breeze_fabric_mod:block/juice_a",
+        "7": "garden_breeze_fabric_mod:block/juice_a",
+        "8": "garden_breeze_fabric_mod:block/juice_a",
+        "12": "garden_breeze_fabric_mod:block/leaves_dogwood_flowers",
+        "0b": "garden_breeze_fabric_mod:block/bottle_b",
+        "1b": "garden_breeze_fabric_mod:block/leaves_bougainvillea_purple_flowers",
+        "2b": "garden_breeze_fabric_mod:block/awning_white",
+        "6b": "garden_breeze_fabric_mod:block/juice_a",
+        "7b": "garden_breeze_fabric_mod:block/juice_a",
+        "8b": "garden_breeze_fabric_mod:block/juice_a",
+        "12b": "garden_breeze_fabric_mod:block/leaves_dogwood_flowers"
+    },
+    "render_type": "cutout"
+}

@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "jellyroll_sponge",
+        "2": "white_concrete_powder",
+        "3": "flowers_1",
+        "4": "vine_4a",
+        "particle": "jellyroll_sponge"
+      },
+      "name": "default"
+    }
+  }
+}

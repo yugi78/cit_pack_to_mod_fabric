@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/cabinet_spruce1",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "particle": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "0": "garden_breeze_fabric_mod:block/bone_block_top",
+        "1": "garden_breeze_fabric_mod:block/stripped_spruce_log"
+    },
+    "render_type": "solid"
+}

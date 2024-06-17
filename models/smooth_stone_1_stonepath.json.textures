@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "smooth_stone_mod",
+        "particle": "smooth_stone_mod"
+      },
+      "name": "default"
+    }
+  }
+}

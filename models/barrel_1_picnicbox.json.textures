@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "basket_lunchbox_top",
+        "1": "basket_lunchbox_side",
+        "2": "plaid2_green",
+        "3": "lunchbox_contents",
+        "particle": "basket_lunchbox_top"
+      },
+      "name": "default"
+    }
+  }
+}

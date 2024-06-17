@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "spruce_planks_mod",
+	"1": "dirt_mod",
+        "1_0": "carrots_stage3_mod"
+      },
+      "name": "default"
+    }
+  }
+}

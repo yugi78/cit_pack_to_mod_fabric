@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "book_10",
+        "2": "book_11"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/gingtrim_birch3",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/beetroot_0",
+        "0": "garden_breeze_fabric_mod:block/fence_birch",
+        "1": "garden_breeze_fabric_mod:block/double_slab_birch"
+    },
+    "render_type": "cutout"
+}

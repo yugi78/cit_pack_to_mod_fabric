@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_skillet_0",
+        "1": "egg_4",
+        "particle": "egg_mod"
+      },
+      "name": "default"
+    }
+  }
+}

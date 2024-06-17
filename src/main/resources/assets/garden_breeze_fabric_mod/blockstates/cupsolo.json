@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "garden_breeze_fabric_mod:block/cupsolo"
+        },
+        "facing=east": {
+            "model": "garden_breeze_fabric_mod:block/cupsolo",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "garden_breeze_fabric_mod:block/cupsolo",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "garden_breeze_fabric_mod:block/cupsolo",
+            "y": 270
+        }
+    }
+}

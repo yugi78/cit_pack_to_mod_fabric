@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "carrots_stage2",
+        "1": "gray_concrete",
+        "2": "farmland",
+        "particle": "carrots_stage2"
+      },
+      "name": "default"
+    }
+  }
+}

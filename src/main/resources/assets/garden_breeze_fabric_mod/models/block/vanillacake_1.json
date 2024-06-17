@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/cake_whitechoco",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/cake_whitechoc",
+        "particle": "garden_breeze_fabric_mod:block/icecream_vanilla",
+        "1": "garden_breeze_fabric_mod:block/cake_whitechoc",
+        "2": "garden_breeze_fabric_mod:block/white_concrete_powder",
+        "3": "garden_breeze_fabric_mod:block/nether_wart_block2",
+        "1_1_2": "garden_breeze_fabric_mod:block/icecream_vanilla"
+    },
+    "render_type": "cutout"
+}

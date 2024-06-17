@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wooden_flower_pot",
+        "1": "wooden_flower_pot_top",
+        "2": "birch_planks_mod",
+        "1_0": "grass_0",
+        "1_1": "grass_0_01"
+      },
+      "name": "default"
+    }
+  }
+}

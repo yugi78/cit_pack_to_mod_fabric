@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "spruce_planks",
+        "1": "stripped_spruce_log",
+        "particle": "spruce_planks",
+        "1_0": "grass_5",
+        "top": "grass_5c",
+        "middle": "grass_5b",
+        "lower": "grass_5a",
+        "2_0": "vine_2",
+        "2_1": "vine_2a",
+        "3_0": "vine_2",
+        "3_1": "vine_2a",
+        "4_0": "vine_4",
+        "4_1": "vine_4a",
+        "5_0": "vine_1",
+        "5_1": "vine_1a"
+      },
+      "name": "default"
+    }
+  }
+}

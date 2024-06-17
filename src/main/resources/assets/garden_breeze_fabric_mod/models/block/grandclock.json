@@ -1,0 +1,18 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/grandclock",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/stripped_dark_oak_log",
+        "0": "garden_breeze_fabric_mod:block/stripped_dark_oak_log",
+        "1": "garden_breeze_fabric_mod:block/glass",
+        "4": "garden_breeze_fabric_mod:block/gold_block",
+        "5": "garden_breeze_fabric_mod:block/white_stained_glass",
+        "6": "garden_breeze_fabric_mod:block/orange_stained_glass",
+        "7": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "8": "garden_breeze_fabric_mod:block/crafting_table_side",
+        "9": "garden_breeze_fabric_mod:block/iron_trapdoor",
+        "10": "garden_breeze_fabric_mod:block/beacon",
+        "11": "garden_breeze_fabric_mod:block/oak_log_top"
+    },
+    "render_type": "cutout"
+}

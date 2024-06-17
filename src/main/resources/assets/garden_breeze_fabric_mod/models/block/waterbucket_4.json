@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/water_bucket_4",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/water_still",
+    "1": "garden_breeze_fabric_mod:block/bucket_0",
+    "2": "garden_breeze_fabric_mod:block/water_bucket_4"
+  },
+  "render_type": "cutout"
+}

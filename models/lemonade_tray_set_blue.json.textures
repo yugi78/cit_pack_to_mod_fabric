@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "glass_white",
+        "3": "blue_concrete",
+        "4": "yellow_concrete",
+        "6": "yellow_shulker_box_top",
+        "particle": "yellow_shulker_box_top"
+      },
+      "name": "default"
+    }
+  }
+}

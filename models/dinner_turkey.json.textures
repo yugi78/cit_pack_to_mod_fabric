@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_ingot_0",
+        "2": "grass_path_side",
+        "3": "cooked_chicken_0",
+        "4": "oak_sapling_0",
+        "5": "bone_block_side",
+        "particle": "iron_ingot_0"
+      },
+      "name": "default"
+    }
+  }
+}

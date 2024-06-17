@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_food_dango",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/dango",
+        "0": "garden_breeze_fabric_mod:block/dango"
+    },
+    "render_type": "cutout"
+}

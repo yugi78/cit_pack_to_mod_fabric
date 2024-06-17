@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "packed_ice",
+        "1": "blue_ice",
+        "2": "black_concrete",
+        "particle": "packed_ice"
+      },
+      "name": "default"
+    }
+  }
+}

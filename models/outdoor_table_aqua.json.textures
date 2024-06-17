@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "aqua_planks"
+      },
+      "name": "default"
+    }
+  }
+}

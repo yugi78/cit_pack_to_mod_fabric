@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/vase2_hydrangea_white",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/porcelain_pitcher",
+    "0": "garden_breeze_fabric_mod:block/porcelain_pitcher",
+    "1": "garden_breeze_fabric_mod:block/hydrangea_white"
+  },
+  "render_type": "cutout"
+}

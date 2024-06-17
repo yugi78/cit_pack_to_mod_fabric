@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/oak_leaves_4_floweringleaves",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/acacia_planks",
+        "particle": "garden_breeze_fabric_mod:block/acacia_planks",
+        "0": "garden_breeze_fabric_mod:block/leaves_flower5",
+        "1": "garden_breeze_fabric_mod:block/leaves_flower2",
+        "2": "garden_breeze_fabric_mod:block/leaves_flower6",
+        "3": "garden_breeze_fabric_mod:block/leaves_flower4"
+    },
+    "render_type": "cutout"
+}

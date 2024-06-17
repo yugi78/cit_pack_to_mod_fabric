@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "lamppost_clock_brown_2",
+        "0": "lamppost_arm_brown",
+        "1": "lamppost_clock_brown_2",
+        "2": "lamppost_brown",
+        "3": "fence_iron_a_brown_parts",
+        "4": "lamp_arm_brown",
+        "5": "chain_thin_black",
+        "6": "hanging_sign_b"
+      },
+      "name": "default"
+    }
+  }
+}

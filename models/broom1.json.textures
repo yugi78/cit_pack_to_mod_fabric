@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "hay_block_top",
+        "1": "iron_ingot_0",
+        "2": "stripped_spruce_log",
+        "particle": "hay_block_top"
+      },
+      "name": "default"
+    }
+  }
+}

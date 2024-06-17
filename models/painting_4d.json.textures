@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "painting_4d",
+        "1": "cit_back"
+      },
+      "name": "default"
+    }
+  }
+}

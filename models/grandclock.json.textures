@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_dark_oak_log",
+        "1": "glass",
+        "4": "gold_block",
+        "5": "white_stained_glass",
+        "6": "orange_stained_glass",
+        "7": "stripped_spruce_log",
+        "8": "crafting_table_side",
+        "9": "iron_trapdoor",
+        "10": "beacon",
+        "11": "oak_log_top",
+        "particle": "stripped_dark_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

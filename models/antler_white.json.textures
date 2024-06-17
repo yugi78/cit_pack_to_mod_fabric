@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "6": "bone_block_side",
+        "7_1": "white_concrete",
+        "particle": "white_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

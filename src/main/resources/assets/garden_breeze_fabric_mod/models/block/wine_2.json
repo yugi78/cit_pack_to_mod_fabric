@@ -1,0 +1,22 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_drink_wine2",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/leaves_rose_red_flowers",
+        "0": "garden_breeze_fabric_mod:block/bottle_b",
+        "1": "garden_breeze_fabric_mod:block/leaves_rose_red_flowers",
+        "2": "garden_breeze_fabric_mod:block/c",
+        "6": "garden_breeze_fabric_mod:block/bottle_b",
+        "7": "garden_breeze_fabric_mod:block/bottle_b",
+        "8": "garden_breeze_fabric_mod:block/c",
+        "12": "garden_breeze_fabric_mod:block/c",
+        "0b": "garden_breeze_fabric_mod:block/bottle_b",
+        "1b": "garden_breeze_fabric_mod:block/leaves_rose_red_flowers",
+        "2b": "garden_breeze_fabric_mod:block/c",
+        "6b": "garden_breeze_fabric_mod:block/bottle_b",
+        "7b": "garden_breeze_fabric_mod:block/bottle_b",
+        "8b": "garden_breeze_fabric_mod:block/c",
+        "12b": "garden_breeze_fabric_mod:block/c"
+    },
+    "render_type": "cutout"
+}

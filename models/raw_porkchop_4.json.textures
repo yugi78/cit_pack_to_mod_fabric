@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "raw_porkchop_4"
+      },
+      "name": "default"
+    }
+  }
+}

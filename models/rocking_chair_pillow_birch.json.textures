@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_birch_log_mod",
+        "1": "knit_pink",
+        "particle": "knit_pink"
+      },
+      "name": "default"
+    }
+  }
+}

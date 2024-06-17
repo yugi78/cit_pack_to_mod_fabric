@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/tomb_closed",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/double_slab_stonebrick",
+        "0": "garden_breeze_fabric_mod:block/double_slab_stonebrick",
+        "1": "garden_breeze_fabric_mod:block/stone_bricks_stair_1",
+        "2": "garden_breeze_fabric_mod:block/chiseled_stone_bricks_side"
+    },
+    "render_type": "cutout"
+}

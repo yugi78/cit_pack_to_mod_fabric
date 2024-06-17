@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/babytoy_ringstack",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/rainbow_wool",
+        "particle": "garden_breeze_fabric_mod:block/white_wool",
+        "0": "garden_breeze_fabric_mod:block/white_wool",
+        "1": "garden_breeze_fabric_mod:block/rainbow_wool"
+    },
+    "render_type": "solid"
+}

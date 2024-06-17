@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/rail_iron_r",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/beetroot_0",
+        "texture": "garden_breeze_fabric_mod:block/iron_bars"
+    },
+    "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/cauldron_1a",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/cooking_pot_1a",
+    "1": "garden_breeze_fabric_mod:block/cooking_pot_1a_1"
+  },
+  "render_type": "cutout"
+}

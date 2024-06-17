@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "main": "fp_brown_1"
+      },
+      "name": "default"
+    }
+  }
+}

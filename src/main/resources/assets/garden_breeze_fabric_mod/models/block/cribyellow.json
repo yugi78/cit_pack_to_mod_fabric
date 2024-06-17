@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/crib_yellow",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/light_blue",
+        "particle": "garden_breeze_fabric_mod:block/quartz_pillar",
+        "0": "garden_breeze_fabric_mod:block/quartz_pillar",
+        "1": "garden_breeze_fabric_mod:block/yellow",
+        "2": "garden_breeze_fabric_mod:block/yellow_concrete_powder"
+    },
+    "render_type": "cutout"
+}

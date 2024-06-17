@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "box_sea3",
+        "0": "box_sea3",
+        "0b": "box_sea3",
+        "1": "box_sea_side",
+        "2": "box_sea_side2",
+        "3": "box_sea_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

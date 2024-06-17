@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "plate_gold",
+        "1": "cutlery_gold"
+      },
+      "name": "default"
+    }
+  }
+}

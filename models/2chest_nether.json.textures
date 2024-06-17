@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "netherrack",
+        "1": "obsidian",
+        "2": "black_concrete",
+        "particle": "netherrack"
+      },
+      "name": "default"
+    }
+  }
+}

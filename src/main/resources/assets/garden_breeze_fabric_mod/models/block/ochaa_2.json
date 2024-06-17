@@ -1,0 +1,14 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_drink_ocha_a2",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/ocha_a",
+        "yunomi1": "garden_breeze_fabric_mod:block/ocha_a",
+        "cha1": "garden_breeze_fabric_mod:block/dango",
+        "hot1": "garden_breeze_fabric_mod:block/hot",
+        "yunomi2": "garden_breeze_fabric_mod:block/ocha_a",
+        "cha2": "garden_breeze_fabric_mod:block/dango",
+        "hot2": "garden_breeze_fabric_mod:block/hot"
+    },
+    "render_type": "cutout"
+}

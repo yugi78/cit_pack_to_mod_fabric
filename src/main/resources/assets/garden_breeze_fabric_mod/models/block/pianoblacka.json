@@ -1,0 +1,19 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_upright_piano_black_a",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/piano_key_parts_black",
+        "3": "garden_breeze_fabric_mod:block/piano_key_parts_black",
+        "5": "garden_breeze_fabric_mod:block/brass_parts",
+        "6": "garden_breeze_fabric_mod:block/piano_side_black",
+        "7": "garden_breeze_fabric_mod:block/piano_key_left_black",
+        "8": "garden_breeze_fabric_mod:block/piano_key_middle_black",
+        "9": "garden_breeze_fabric_mod:block/piano_key_right_black",
+        "10": "garden_breeze_fabric_mod:block/piano_nocloth_black",
+        "15": "garden_breeze_fabric_mod:block/piano_top_black",
+        "12": "garden_breeze_fabric_mod:block/piano_front_black_1",
+        "13": "garden_breeze_fabric_mod:block/piano_plate_black",
+        "14": "garden_breeze_fabric_mod:block/piano_front_black_2"
+    },
+    "render_type": "cutout"
+}

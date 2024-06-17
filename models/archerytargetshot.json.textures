@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "haytarget",
+        "1": "hay_block_top",
+        "2": "stripped_oak_log",
+        "3": "feathers",
+        "4": "furnace_top",
+        "1_2": "smallfeather",
+        "particle": "smallfeather"
+      },
+      "name": "default"
+    }
+  }
+}

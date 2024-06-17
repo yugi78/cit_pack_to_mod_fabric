@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "led": "lantern_1a"
+      },
+      "name": "default"
+    }
+  }
+}

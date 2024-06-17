@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "phone_2",
+        "particle": "phone_2"
+      },
+      "name": "default"
+    }
+  }
+}

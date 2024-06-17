@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "glass_bottle",
+        "1": "daisy_top",
+        "2": "daisy_bottom",
+        "particle": "glass_bottle"
+      },
+      "name": "default"
+    }
+  }
+}

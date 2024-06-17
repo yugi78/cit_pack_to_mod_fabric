@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stone_bricks_stair_1",
+        "1": "double_slab_stonebrick",
+        "2": "chiseled_stone_bricks_side",
+        "particle": "stone_bricks_stair_1"
+      },
+      "name": "default"
+    }
+  }
+}

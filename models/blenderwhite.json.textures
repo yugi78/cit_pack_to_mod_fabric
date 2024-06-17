@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "potion_0",
+        "1": "white_concrete",
+        "2": "anvil",
+        "3": "light_gray_concrete",
+        "4": "potion_overlay",
+        "particle": "potion_0"
+      },
+      "name": "default"
+    }
+  }
+}

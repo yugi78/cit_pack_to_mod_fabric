@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "purple_wool",
+        "1": "purple_concrete_powder",
+        "2": "iron_ingot_0",
+        "particle": "purple_wool"
+      },
+      "name": "default"
+    }
+  }
+}

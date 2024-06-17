@@ -1,0 +1,18 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_drink_juice_b1",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/plaster_orange_arch_top",
+        "0": "garden_breeze_fabric_mod:block/plaster_orange_arch_top",
+        "1": "garden_breeze_fabric_mod:block/bottle_b",
+        "2": "garden_breeze_fabric_mod:block/awning_white",
+        "3": "garden_breeze_fabric_mod:block/flower_tulip_orange",
+        "4": "garden_breeze_fabric_mod:block/cake_0",
+        "0b": "garden_breeze_fabric_mod:block/c",
+        "1b": "garden_breeze_fabric_mod:block/c",
+        "2b": "garden_breeze_fabric_mod:block/c",
+        "3b": "garden_breeze_fabric_mod:block/c",
+        "4b": "garden_breeze_fabric_mod:block/c"
+    },
+    "render_type": "cutout"
+}

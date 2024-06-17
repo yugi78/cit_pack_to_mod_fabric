@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fern_0",
+        "1": "fern_0_01",
+        "2": "fern_0_02",
+        "1_0": "flower_pot_l_0c"
+      },
+      "name": "default"
+    }
+  }
+}

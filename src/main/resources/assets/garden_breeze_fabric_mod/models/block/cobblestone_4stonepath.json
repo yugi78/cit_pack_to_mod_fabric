@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/cobblestone_4_stonepath",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/acacia_planks",
+        "particle": "garden_breeze_fabric_mod:block/acacia_planks",
+        "1": "garden_breeze_fabric_mod:block/cobblestone_mod"
+    },
+    "render_type": "solid"
+}

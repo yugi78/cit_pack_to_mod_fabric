@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/metal_chair_green",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/metal_back_green",
+    "0": "garden_breeze_fabric_mod:block/metal_back_green",
+    "1": "garden_breeze_fabric_mod:block/metal_bottom_green"
+  },
+  "render_type": "cutout"
+}

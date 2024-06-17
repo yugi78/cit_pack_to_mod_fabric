@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bread_5",
+        "1": "bread_5a",
+        "3": "picnicbasket",
+        "particle": "picnicbasket",
+        "2_0": "apple_0"
+      },
+      "name": "default"
+    }
+  }
+}

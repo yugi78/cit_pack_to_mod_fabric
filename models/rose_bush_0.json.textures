@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1_0": "rose_bush_bottom_mod",
+        "0": "rose_bush_top_mod",
+        "1": "flower_pot_l_0b"
+      },
+      "name": "default"
+    }
+  }
+}

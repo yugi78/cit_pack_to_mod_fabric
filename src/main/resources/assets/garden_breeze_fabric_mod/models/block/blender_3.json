@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/blenderred",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/potion_overlay",
+        "particle": "garden_breeze_fabric_mod:block/potion_0",
+        "0": "garden_breeze_fabric_mod:block/potion_0",
+        "1": "garden_breeze_fabric_mod:block/red_concrete",
+        "2": "garden_breeze_fabric_mod:block/anvil",
+        "3": "garden_breeze_fabric_mod:block/light_gray_concrete",
+        "4": "garden_breeze_fabric_mod:block/potion_overlay"
+    },
+    "render_type": "translucent"
+}

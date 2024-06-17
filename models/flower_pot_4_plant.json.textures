@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "flower_pot3",
+        "1": "stripped_spruce_log_a",
+        "3": "wood",
+        "4": "stone_mod",
+        "particle": "flower_pot3"
+      },
+      "name": "default"
+    }
+  }
+}

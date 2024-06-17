@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dollhouse3",
+        "1": "dollhouse4",
+        "2": "red",
+        "3": "barrel_0b",
+        "4": "cut_sandstone",
+        "particle": "dollhouse3"
+      },
+      "name": "default"
+    }
+  }
+}

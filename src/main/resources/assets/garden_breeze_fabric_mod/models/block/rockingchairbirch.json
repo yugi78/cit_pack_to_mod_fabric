@@ -1,0 +1,9 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/rocking_chair_birch",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/chess_1",
+    "particle": "garden_breeze_fabric_mod:block/stripped_birch_log_mod",
+    "0": "garden_breeze_fabric_mod:block/stripped_birch_log_mod"
+  },
+  "render_type": "cutout"
+}

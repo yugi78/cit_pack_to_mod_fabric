@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cookware_parts",
+        "dish": "dish",
+        "stew": "stew_a",
+        "particle": "stew_a"
+      },
+      "name": "default"
+    }
+  }
+}

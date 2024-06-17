@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lantern_white",
+        "particle": "lantern_white"
+      },
+      "name": "default"
+    }
+  }
+}

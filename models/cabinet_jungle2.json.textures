@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "stripped_jungle_log",
+        "4_1": "jungle_log",
+        "4_2": "furnace_top"
+      },
+      "name": "default"
+    }
+  }
+}

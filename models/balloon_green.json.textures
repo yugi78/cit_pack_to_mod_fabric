@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "green_concrete",
+        "3": "white_wool",
+        "particle": "green_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

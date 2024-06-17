@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "white_wool",
+        "2": "anvil",
+        "3": "stripped_oak_log",
+        "4": "red_wool",
+        "5": "black_concrete_powder",
+        "6": "blue_wool",
+        "7": "yellow_wool",
+        "particle": "red_wool"
+      },
+      "name": "default"
+    }
+  }
+}

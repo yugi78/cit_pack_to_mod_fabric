@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "jack_o_lantern_1e",
+        "1": "pumpkin_side",
+        "2": "black_wool",
+        "1_1": "candybars"
+      },
+      "name": "default"
+    }
+  }
+}

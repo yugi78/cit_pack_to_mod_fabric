@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gray_acacia",
+        "1": "knit_blue",
+        "particle": "knit_blue"
+      },
+      "name": "default"
+    }
+  }
+}

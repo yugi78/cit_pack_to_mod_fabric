@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/counter_birch4",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/stripped_birch_log",
+        "particle": "garden_breeze_fabric_mod:block/stripped_birch_log",
+        "0": "garden_breeze_fabric_mod:block/stripped_birch_log",
+        "1": "garden_breeze_fabric_mod:block/stripped_oak_log",
+        "2": "garden_breeze_fabric_mod:block/furnace_top",
+        "3": "garden_breeze_fabric_mod:block/chiseled_sandstone_top"
+    },
+    "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/birch_planter_sunflower",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/canasto1",
+    "0": "garden_breeze_fabric_mod:block/birch_planks_mod",
+    "1": "garden_breeze_fabric_mod:block/dirt_mod",
+    "3": "garden_breeze_fabric_mod:block/sunflower_back",
+    "4": "garden_breeze_fabric_mod:block/sunflower_bottom_mod",
+    "2_2": "garden_breeze_fabric_mod:block/sunflower_front"
+  },
+  "render_type": "cutout"
+}

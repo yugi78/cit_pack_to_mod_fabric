@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "milk_bucket_1",
+        "1": "milk_bucket_1_01"
+      },
+      "name": "default"
+    }
+  }
+}

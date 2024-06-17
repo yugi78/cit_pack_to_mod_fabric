@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "cabinet": "stripped_birch_log_0",
+        "handle": "handle_light"
+      },
+      "name": "default"
+    }
+  }
+}

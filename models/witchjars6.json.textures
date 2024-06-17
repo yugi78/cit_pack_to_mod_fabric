@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1_0": "pumpkin_seeds_0",
+        "2_1": "book_and_quill_0",
+        "6_2": "bubble_coral_fan",
+        "6_3": "fire_coral"
+      },
+      "name": "default"
+    }
+  }
+}

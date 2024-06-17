@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "4_0": "stripped_birch_log",
+        "4_1": "stripped_oak_log",
+        "4_2": "furnace_top"
+      },
+      "name": "default"
+    }
+  }
+}

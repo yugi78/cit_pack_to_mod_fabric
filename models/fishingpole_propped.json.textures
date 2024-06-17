@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_spruce_log",
+        "1": "tripwire_hook",
+        "2": "furnace_top",
+        "3": "spruce_planks_vertical",
+        "4": "fishing_hook",
+        "5": "white_wool",
+        "6": "dark_oak_log",
+        "7": "acacia_sapling_3a",
+        "particle": "stripped_spruce_log"
+      },
+      "name": "default"
+    }
+  }
+}

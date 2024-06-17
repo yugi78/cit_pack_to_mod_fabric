@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cake_whitechoc",
+        "2": "white_concrete_powder",
+        "3": "nether_wart_block2",
+        "1_1_2": "icecream_vanilla",
+        "particle": "icecream_vanilla"
+      },
+      "name": "default"
+    }
+  }
+}

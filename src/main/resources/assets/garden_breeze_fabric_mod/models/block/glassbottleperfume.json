@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/glass_bottle_perfume",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/acacia_planks",
+        "particle": "garden_breeze_fabric_mod:block/glass_cup",
+        "0": "garden_breeze_fabric_mod:block/glass_cup"
+    },
+    "render_type": "translucent"
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/oak_leaves_4_wisteria",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/acacia_planks",
+        "particle": "garden_breeze_fabric_mod:block/acacia_planks",
+        "0": "garden_breeze_fabric_mod:block/wisteria5",
+        "1": "garden_breeze_fabric_mod:block/wisteria6",
+        "2": "garden_breeze_fabric_mod:block/wisteria7",
+        "3": "garden_breeze_fabric_mod:block/wisteria8"
+    },
+    "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/turkeyleg",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/bone_block_side",
+        "0": "garden_breeze_fabric_mod:block/bone_block_side",
+        "1": "garden_breeze_fabric_mod:block/cooked_chicken_0"
+    },
+    "render_type": "cutout"
+}

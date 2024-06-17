@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "hay_block_top",
+        "2": "oak_planks",
+        "3": "black_concrete",
+        "5": "black_concrete_powder",
+        "6": "furnace_top",
+        "7": "blue_stained_glass",
+        "8": "barrel_3b",
+        "particle": "hay_block_top",
+        "1_0": "spruce_planks"
+      },
+      "name": "default"
+    }
+  }
+}

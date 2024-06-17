@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "basket",
+        "1": "basket_0",
+        "1_0": "beetroot_0"
+      },
+      "name": "default"
+    }
+  }
+}

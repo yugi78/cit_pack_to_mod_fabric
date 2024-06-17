@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bowl_0",
+        "1": "stew_0"
+      },
+      "name": "default"
+    }
+  }
+}

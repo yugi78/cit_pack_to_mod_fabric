@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "plate_white",
+        "1": "egg_4",
+        "particle": "egg_mod"
+      },
+      "name": "default"
+    }
+  }
+}

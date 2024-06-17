@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "red_nether_bricks_mod"
+      },
+      "name": "default"
+    }
+  }
+}

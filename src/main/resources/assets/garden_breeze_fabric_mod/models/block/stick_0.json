@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/stick_0",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/oak_log_top_mod",
+    "1": "garden_breeze_fabric_mod:block/oak_log_mod",
+    "2": "garden_breeze_fabric_mod:block/stick_0"
+  },
+  "render_type": "cutout"
+}

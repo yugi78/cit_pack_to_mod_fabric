@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fishing_net",
+        "particle": "fishing_net"
+      },
+      "name": "default"
+    }
+  }
+}

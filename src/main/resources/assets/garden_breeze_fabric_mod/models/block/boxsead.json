@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_box_sea_d",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/box_sea3",
+        "0": "garden_breeze_fabric_mod:block/box_sea3",
+        "0b": "garden_breeze_fabric_mod:block/box_sea3",
+        "1": "garden_breeze_fabric_mod:block/box_sea_side",
+        "2": "garden_breeze_fabric_mod:block/box_sea_side2",
+        "3": "garden_breeze_fabric_mod:block/box_sea_bottom"
+    },
+    "render_type": "cutout"
+}

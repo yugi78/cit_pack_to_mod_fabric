@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "box_fru3",
+        "0": "box_fru3",
+        "0b": "box_fru3",
+        "1": "box_vege_side",
+        "2": "box_vege_side2",
+        "3": "box_vege_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

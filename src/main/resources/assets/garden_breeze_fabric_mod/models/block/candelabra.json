@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/candelabra_table",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/tablecandle1",
+        "particle": "garden_breeze_fabric_mod:block/tablecandle1",
+        "main": "garden_breeze_fabric_mod:block/tablecandle1"
+    },
+    "render_type": "cutout"
+}

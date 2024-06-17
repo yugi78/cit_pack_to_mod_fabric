@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "birch_planks_a",
+        "1": "stripped_spruce_log_a"
+      },
+      "name": "default"
+    }
+  }
+}

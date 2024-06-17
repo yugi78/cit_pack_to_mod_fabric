@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "flower_pot_2a",
+        "1_0": "dandelion_0",
+        "1_1": "dandelion_0_01"
+      },
+      "name": "default"
+    }
+  }
+}

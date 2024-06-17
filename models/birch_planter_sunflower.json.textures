@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "birch_planks_mod",
+        "1": "dirt_mod",
+        "3": "sunflower_back",
+        "4": "sunflower_bottom_mod",
+        "2_2": "sunflower_front"
+      },
+      "name": "default"
+    }
+  }
+}

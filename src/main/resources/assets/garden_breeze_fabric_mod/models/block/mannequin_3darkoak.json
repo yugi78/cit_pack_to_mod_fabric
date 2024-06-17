@@ -1,0 +1,9 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/mannequin3darkoak",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/chess_1",
+    "particle": "garden_breeze_fabric_mod:block/maniqui_darkoak",
+    "0": "garden_breeze_fabric_mod:block/maniqui_darkoak"
+  },
+  "render_type": "cutout"
+}

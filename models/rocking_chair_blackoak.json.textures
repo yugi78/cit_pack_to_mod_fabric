@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "black_oak",
+        "particle": "black_oak"
+      },
+      "name": "default"
+    }
+  }
+}

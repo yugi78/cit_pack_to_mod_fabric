@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "garden_breeze_fabric_mod:block/darkoakwindowboxrose"
+    },
+    "facing=east": {
+      "model": "garden_breeze_fabric_mod:block/darkoakwindowboxrose",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "garden_breeze_fabric_mod:block/darkoakwindowboxrose",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "garden_breeze_fabric_mod:block/darkoakwindowboxrose",
+      "y": 270
+    }
+  }
+}

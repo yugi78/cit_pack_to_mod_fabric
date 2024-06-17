@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lamplight",
+        "2": "pipe_silver",
+        "particle": "pipe_silver"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bubble_tea1"
+      },
+      "name": "default"
+    }
+  }
+}

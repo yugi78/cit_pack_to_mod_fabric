@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "telephone_a_body_wood",
+        "body": "telephone_a_body_wood",
+        "parts": "telephone_a_parts_wood"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_jungle_log",
+        "1": "jungle_planks_vertical",
+        "particle": "stripped_jungle_log"
+      },
+      "name": "default"
+    }
+  }
+}

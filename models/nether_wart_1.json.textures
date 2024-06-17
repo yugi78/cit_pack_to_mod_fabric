@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "nether_wart_1"
+      },
+      "name": "default"
+    }
+  }
+}

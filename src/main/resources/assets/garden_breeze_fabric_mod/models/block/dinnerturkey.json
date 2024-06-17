@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/dinner_turkey",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/ham1",
+        "particle": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "0": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "2": "garden_breeze_fabric_mod:block/grass_path_side",
+        "3": "garden_breeze_fabric_mod:block/cooked_chicken_0",
+        "4": "garden_breeze_fabric_mod:block/oak_sapling_0",
+        "5": "garden_breeze_fabric_mod:block/bone_block_side"
+    },
+    "render_type": "cutout"
+}

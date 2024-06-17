@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "paper_1",
+        "3": "paper_1",
+        "4": "desk1",
+        "5": "moviecamera2",
+        "6": "bottle_b",
+        "7": "bunkerslamp0",
+        "8": "dish_wood"
+      },
+      "name": "default"
+    }
+  }
+}

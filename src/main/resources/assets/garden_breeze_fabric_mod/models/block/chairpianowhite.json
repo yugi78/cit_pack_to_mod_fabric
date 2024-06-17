@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_chair_piano_white",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/piano_chair_white_white",
+        "frame": "garden_breeze_fabric_mod:block/piano_chair_white_white",
+        "seat": "garden_breeze_fabric_mod:block/piano_chair_white_white",
+        "parts": "garden_breeze_fabric_mod:block/moviecamera2"
+    },
+    "render_type": "cutout"
+}

@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "black_concrete",
+        "3": "vine_5a_bottom",
+        "4": "vine_8",
+        "particle": "basket",
+        "3_0": "basket",
+        "3_1": "jungle_log"
+      },
+      "name": "default"
+    }
+  }
+}

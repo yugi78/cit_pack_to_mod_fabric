@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/balloons_halloween",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/canvas",
+        "particle": "garden_breeze_fabric_mod:block/black_wool",
+        "0": "garden_breeze_fabric_mod:block/black_wool",
+        "1": "garden_breeze_fabric_mod:block/purple_wool",
+        "2": "garden_breeze_fabric_mod:block/orange_wool",
+        "3": "garden_breeze_fabric_mod:block/white_wool",
+        "4": "garden_breeze_fabric_mod:block/canvas"
+    },
+    "render_type": "solid"
+}

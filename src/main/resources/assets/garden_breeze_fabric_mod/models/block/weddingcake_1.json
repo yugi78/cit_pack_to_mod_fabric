@@ -1,0 +1,14 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/cake_weddingchocolate",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/cake_wedding",
+        "particle": "garden_breeze_fabric_mod:block/poppy_1b",
+        "1": "garden_breeze_fabric_mod:block/cake_wedding",
+        "2": "garden_breeze_fabric_mod:block/white_concrete_powder",
+        "3": "garden_breeze_fabric_mod:block/sea_lantern1",
+        "4": "garden_breeze_fabric_mod:block/poppy_1a",
+        "5": "garden_breeze_fabric_mod:block/poppy_1b",
+        "6": "garden_breeze_fabric_mod:block/grass_8"
+    },
+    "render_type": "solid"
+}

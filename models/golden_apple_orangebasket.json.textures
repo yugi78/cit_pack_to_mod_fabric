@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "orangebasket",
+        "2": "basket_orange_bottom",
+        "3": "basket_orange_side1",
+        "4": "basket_orange_top"
+      },
+      "name": "default"
+    }
+  }
+}

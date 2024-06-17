@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/ramensoup",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/ramensoup",
+        "0": "garden_breeze_fabric_mod:block/ramensoup"
+    },
+    "render_type": "cutout"
+}

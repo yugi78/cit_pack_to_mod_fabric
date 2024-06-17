@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "summoning1",
+        "particle": "summoning1"
+      },
+      "name": "default"
+    }
+  }
+}

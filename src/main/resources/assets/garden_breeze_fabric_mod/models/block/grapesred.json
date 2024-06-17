@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/grapes_red",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/oak_log",
+        "0": "garden_breeze_fabric_mod:block/jungle_leaves_0",
+        "1": "garden_breeze_fabric_mod:block/fence_spruce",
+        "2": "garden_breeze_fabric_mod:block/grapes",
+        "1_0": "garden_breeze_fabric_mod:block/oak_log"
+    },
+    "render_type": "cutout"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/cake_2",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/cake_1",
+    "1": "garden_breeze_fabric_mod:block/cake_1_01",
+    "2": "garden_breeze_fabric_mod:block/plate_gold",
+    "4": "garden_breeze_fabric_mod:block/cutlery_gold"
+  },
+  "render_type": "cutout"
+}

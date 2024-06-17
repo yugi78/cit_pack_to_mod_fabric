@@ -1,0 +1,9 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/outdoor_table_yellow",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/canasto1",
+    "0": "garden_breeze_fabric_mod:block/yellow_planks"
+  },
+  "render_type": "cutout"
+}

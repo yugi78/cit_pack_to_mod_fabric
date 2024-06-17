@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bone_block_side",
+        "1": "iron_ingot_0",
+        "2": "nether_wart_block2",
+        "particle": "bone_block_side"
+      },
+      "name": "default"
+    }
+  }
+}

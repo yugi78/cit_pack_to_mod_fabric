@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "baked_potato_0",
+        "1": "baked_potato_0_01"
+      },
+      "name": "default"
+    }
+  }
+}

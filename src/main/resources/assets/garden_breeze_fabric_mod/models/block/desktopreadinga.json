@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_desktop_reading_a",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/shelf_book",
+        "1": "garden_breeze_fabric_mod:block/shelf_book",
+        "2": "garden_breeze_fabric_mod:block/lantern_steel_frame_silver",
+        "3": "garden_breeze_fabric_mod:block/paper_1",
+        "4": "garden_breeze_fabric_mod:block/desk1",
+        "5": "garden_breeze_fabric_mod:block/moviecamera2"
+    },
+    "render_type": "cutout"
+}

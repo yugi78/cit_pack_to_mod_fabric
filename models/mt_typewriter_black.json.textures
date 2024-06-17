@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "typewriter_black_body",
+        "body": "typewriter_black_body",
+        "body2": "typewriter_black_body2",
+        "parts": "typewriter_black_parts",
+        "paper": "typewriter_paper"
+      },
+      "name": "default"
+    }
+  }
+}

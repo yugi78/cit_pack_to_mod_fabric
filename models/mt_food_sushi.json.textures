@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "sushi1",
+        "1": "wood_oak_pole",
+        "particle": "sushi1"
+      },
+      "name": "default"
+    }
+  }
+}

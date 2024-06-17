@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/saddlestandempty",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/oak_planks",
+        "0": "garden_breeze_fabric_mod:block/oak_planks"
+    },
+    "render_type": "cutout"
+}

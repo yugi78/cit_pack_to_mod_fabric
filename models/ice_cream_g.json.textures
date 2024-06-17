@@ -1,0 +1,19 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cone",
+        "2": "icecream_choco",
+        "3": "cherry",
+        "4": "texture",
+        "5": "orange",
+        "1_2": "icecream_swirl",
+        "2_2": "icecream_orange",
+        "particle": "icecream_orange",
+        "2_1": "cone",
+        "1_1": "cone"
+      },
+      "name": "default"
+    }
+  }
+}

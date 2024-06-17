@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bone_block_side",
+        "1": "cookie_0",
+        "particle": "bone_block_side"
+      },
+      "name": "default"
+    }
+  }
+}

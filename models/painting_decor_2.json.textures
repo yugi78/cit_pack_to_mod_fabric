@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "oak_planks_mod",
+        "1": "painting_decor_2"
+      },
+      "name": "default"
+    }
+  }
+}

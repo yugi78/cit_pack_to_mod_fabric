@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "garden_breeze_fabric_mod:block/cookedmutton_0"
+    },
+    "facing=east": {
+      "model": "garden_breeze_fabric_mod:block/cookedmutton_0",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "garden_breeze_fabric_mod:block/cookedmutton_0",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "garden_breeze_fabric_mod:block/cookedmutton_0",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/paper_3",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/paper_3"
+  },
+  "render_type": "cutout"
+}

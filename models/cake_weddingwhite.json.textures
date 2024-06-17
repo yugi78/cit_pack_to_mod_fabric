@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cake_wedding",
+        "2": "white_concrete_powder",
+        "3": "sea_lantern1",
+        "4": "azure_bluet_1a",
+        "5": "azure_bluet_1b",
+        "6": "grass_8",
+        "particle": "azure_bluet_1b"
+      },
+      "name": "default"
+    }
+  }
+}

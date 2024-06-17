@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wisteria1",
+        "1": "wisteria2",
+        "2": "wisteria3",
+        "3": "wisteria4",
+        "particle": "wisteria1"
+      },
+      "name": "default"
+    }
+  }
+}

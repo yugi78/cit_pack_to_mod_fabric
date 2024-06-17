@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "sunflower_bottom",
+        "1": "gray_concrete",
+        "2": "farmland",
+        "particle": "sunflower_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

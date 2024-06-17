@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "apron1",
+        "2": "aprontext"
+      },
+      "name": "default"
+    }
+  }
+}

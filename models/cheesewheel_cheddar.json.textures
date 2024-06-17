@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "yellow_wool",
+        "1": "yellow_terracotta",
+        "particle": "yellow_wool"
+      },
+      "name": "default"
+    }
+  }
+}

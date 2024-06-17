@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "sweet_brrries_0",
+        "1": "basket"
+      },
+      "name": "default"
+    }
+  }
+}

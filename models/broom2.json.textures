@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dark_oak_log",
+        "1": "anvil",
+        "2": "stripped_dark_oak_log",
+        "particle": "dark_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/baking_muffinchoco",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/bush_de_noel_0",
+        "particle": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "0": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "1": "garden_breeze_fabric_mod:block/bush_de_noel_0"
+    },
+    "render_type": "cutout"
+}

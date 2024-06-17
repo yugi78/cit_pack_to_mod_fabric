@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fern_4",
+        "1": "fern_4_01"
+      },
+      "name": "default"
+    }
+  }
+}

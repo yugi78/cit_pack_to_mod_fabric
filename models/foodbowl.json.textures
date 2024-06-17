@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "red_concrete",
+        "2": "coarse_dirt",
+        "particle": "red_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/chest_picnic",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/picnicblanket_pink",
+        "particle": "garden_breeze_fabric_mod:block/picnicbasket",
+        "0": "garden_breeze_fabric_mod:block/bread_5",
+        "1": "garden_breeze_fabric_mod:block/bread_5a",
+        "3": "garden_breeze_fabric_mod:block/picnicbasket",
+        "2_0": "garden_breeze_fabric_mod:block/apple_0"
+    },
+    "render_type": "cutout"
+}

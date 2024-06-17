@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_dark_oak_log",
+        "particle": "stripped_dark_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

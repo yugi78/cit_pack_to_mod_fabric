@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "bunkerslamp0",
+        "0": "bunkerslamp0",
+        "1": "bunkerslamp_green"
+      },
+      "name": "default"
+    }
+  }
+}

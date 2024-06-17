@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/side_gbcasserole",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/bone_block_side",
+        "0": "garden_breeze_fabric_mod:block/bone_block_side",
+        "1": "garden_breeze_fabric_mod:block/cactus_top",
+        "2": "garden_breeze_fabric_mod:block/goldfleck"
+    },
+    "render_type": "cutout"
+}

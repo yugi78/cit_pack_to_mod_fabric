@@ -1,0 +1,12 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/vine_5",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/vine_5_00_top",
+    "1": "garden_breeze_fabric_mod:block/vine_5_00_bottom",
+    "2": "garden_breeze_fabric_mod:block/vine_5_01_top",
+    "3": "garden_breeze_fabric_mod:block/vine_5_01_bottom"
+  },
+  "render_type": "cutout"
+}

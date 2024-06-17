@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/mushroom_stew_0",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/bowl_0",
+    "1": "garden_breeze_fabric_mod:block/stew_0"
+  },
+  "render_type": "cutout"
+}

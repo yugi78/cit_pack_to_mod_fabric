@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "double_slab_birch",
+        "1": "stripped_spruce_log",
+        "particle": "double_slab_birch"
+      },
+      "name": "default"
+    }
+  }
+}

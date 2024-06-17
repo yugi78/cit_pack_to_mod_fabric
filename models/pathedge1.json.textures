@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bricks_mod",
+        "particle": "bricks_mod"
+      },
+      "name": "default"
+    }
+  }
+}

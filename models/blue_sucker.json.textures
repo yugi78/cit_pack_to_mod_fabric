@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "suckers",
+        "particle": "suckers"
+      },
+      "name": "default"
+    }
+  }
+}

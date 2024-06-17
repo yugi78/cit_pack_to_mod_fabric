@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1_0": "stripped_oak_log_mod",
+        "0": "handle"
+      },
+      "name": "default"
+    }
+  }
+}

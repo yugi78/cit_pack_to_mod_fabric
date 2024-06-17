@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "anvil",
+        "1": "pink_wool",
+        "particle": "anvil"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "spruce_trapdoor",
+        "1": "anvil",
+        "2": "spruce_planks",
+        "5": "black_wool",
+        "particle": "stripped_spruce_log",
+        "1_0": "stripped_spruce_log",
+        "1_1": "stripped_dark_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

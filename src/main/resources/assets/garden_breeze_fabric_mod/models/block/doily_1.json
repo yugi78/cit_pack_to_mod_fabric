@@ -1,0 +1,9 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/doily1",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/chess_1",
+    "particle": "garden_breeze_fabric_mod:block/chess_1",
+    "1": "garden_breeze_fabric_mod:block/doily_1"
+  },
+  "render_type": "cutout"
+}

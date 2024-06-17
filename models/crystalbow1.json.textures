@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "packed_ice",
+        "1": "enchanting_table_side",
+        "2": "white_wool"
+      },
+      "name": "default"
+    }
+  }
+}

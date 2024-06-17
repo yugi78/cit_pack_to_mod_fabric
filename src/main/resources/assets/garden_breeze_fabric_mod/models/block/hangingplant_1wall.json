@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/hanging_plant1_wall",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/canasto1",
+    "1": "garden_breeze_fabric_mod:block/maceta_2",
+    "4": "garden_breeze_fabric_mod:block/plant_5"
+  },
+  "render_type": "cutout"
+}

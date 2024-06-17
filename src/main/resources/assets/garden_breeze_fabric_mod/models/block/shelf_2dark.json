@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/shelf2_dark",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/furnace_top",
+        "0": "garden_breeze_fabric_mod:block/furnace_top",
+        "1": "garden_breeze_fabric_mod:block/stripped_dark_oak_log",
+        "3": "garden_breeze_fabric_mod:block/spicerack"
+    },
+    "render_type": "translucent"
+}

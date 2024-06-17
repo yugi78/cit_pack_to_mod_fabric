@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "raw_porkchop_1",
+        "1": "cutting_board"
+      },
+      "name": "default"
+    }
+  }
+}

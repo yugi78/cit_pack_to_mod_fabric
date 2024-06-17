@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "water_still",
+        "1": "bucket_0",
+        "2": "water_bucket_4"
+      },
+      "name": "default"
+    }
+  }
+}

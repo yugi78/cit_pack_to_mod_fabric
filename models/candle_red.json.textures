@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "main": "candle_red"
+      },
+      "name": "default"
+    }
+  }
+}

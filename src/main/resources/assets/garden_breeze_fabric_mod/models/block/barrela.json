@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_barrel_a",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/barrel_a",
+        "0": "garden_breeze_fabric_mod:block/barrel_a",
+        "1": "garden_breeze_fabric_mod:block/barrel_a_top"
+    },
+    "render_type": "cutout"
+}

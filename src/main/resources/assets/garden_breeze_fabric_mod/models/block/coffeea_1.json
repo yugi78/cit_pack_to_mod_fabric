@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_drink_coffee_a1",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/coffee_kettle_0",
+        "particle": "garden_breeze_fabric_mod:block/dish",
+        "0": "garden_breeze_fabric_mod:block/dish",
+        "1": "garden_breeze_fabric_mod:block/lamppost_bottom_brown",
+        "2": "garden_breeze_fabric_mod:block/hot"
+    },
+    "render_type": "cutout"
+}

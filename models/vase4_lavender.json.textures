@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "glass_bottle",
+        "1": "lavender",
+        "2": "hydrangea_bottom",
+        "particle": "glass_bottle"
+      },
+      "name": "default"
+    }
+  }
+}

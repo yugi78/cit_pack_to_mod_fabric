@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dish_salad_a",
+        "1": "dish",
+        "2": "cookware_parts",
+        "3": "bottle_b",
+        "particle": "dish_salad_a"
+      },
+      "name": "default"
+    }
+  }
+}

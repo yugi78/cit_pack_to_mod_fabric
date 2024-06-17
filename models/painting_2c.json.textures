@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "painting": "painting_2c",
+        "back": "cit_back"
+      },
+      "name": "default"
+    }
+  }
+}

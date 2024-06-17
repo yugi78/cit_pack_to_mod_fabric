@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "grass_1",
+        "1": "grass_1_01",
+        "2": "grass_1_02",
+        "3": "grass_1_03",
+        "4": "grass_1_04"
+      },
+      "name": "default"
+    }
+  }
+}

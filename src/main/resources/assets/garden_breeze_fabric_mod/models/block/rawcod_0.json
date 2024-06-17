@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/raw_cod_0",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/raw_cod_0",
+    "1": "garden_breeze_fabric_mod:block/spruce_planks_mod"
+  },
+  "render_type": "cutout"
+}

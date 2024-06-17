@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "main": "bee1"
+      },
+      "name": "default"
+    }
+  }
+}

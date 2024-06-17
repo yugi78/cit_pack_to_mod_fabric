@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "red_lantern_black",
+        "1": "red_lantern_side2",
+        "2": "red_lantern_top1",
+        "particle": "red_lantern_black"
+      },
+      "name": "default"
+    }
+  }
+}

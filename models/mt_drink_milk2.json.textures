@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "plaster_white_arch_top",
+        "1": "bottle_b",
+        "2": "c",
+        "3": "c",
+        "4": "c",
+        "0b": "plaster_white_arch_top",
+        "1b": "bottle_b",
+        "2b": "c",
+        "3b": "c",
+        "4b": "c",
+        "particle": "plaster_white_arch_top"
+      },
+      "name": "default"
+    }
+  }
+}

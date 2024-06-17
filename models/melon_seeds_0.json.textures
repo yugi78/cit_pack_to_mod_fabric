@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "melon_seeds_0"
+      },
+      "name": "default"
+    }
+  }
+}

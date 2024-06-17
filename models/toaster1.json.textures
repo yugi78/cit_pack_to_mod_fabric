@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "black_concrete",
+        "1": "anvil",
+        "particle": "black_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

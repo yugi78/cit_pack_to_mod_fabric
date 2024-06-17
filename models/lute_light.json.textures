@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "strings",
+        "1": "black_terracotta2",
+        "2": "stripped_oak_log",
+        "3": "dark_oak_planks",
+        "particle": "strings"
+      },
+      "name": "default"
+    }
+  }
+}

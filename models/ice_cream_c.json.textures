@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cone",
+        "2": "icecream_choco",
+        "4": "texture",
+        "particle": "icecream_choco"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/rocking_chair_pillow_blackoak",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/chess_1",
+    "particle": "garden_breeze_fabric_mod:block/knit_terracotta",
+    "0": "garden_breeze_fabric_mod:block/black_oak",
+    "1": "garden_breeze_fabric_mod:block/knit_terracotta"
+  },
+  "render_type": "cutout"
+}

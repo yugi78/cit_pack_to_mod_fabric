@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_spruce_log_mod",
+        "1": "knit_yellow",
+        "particle": "knit_yellow"
+      },
+      "name": "default"
+    }
+  }
+}

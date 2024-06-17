@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/stew_mushroom",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "0": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "1": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "2": "garden_breeze_fabric_mod:block/stew_0"
+    },
+    "render_type": "cutout"
+}

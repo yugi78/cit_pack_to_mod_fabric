@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_jungle_log",
+        "1": "white_wool",
+        "2": "anvil",
+        "3": "stripped_oak_log",
+        "particle": "stripped_jungle_log"
+      },
+      "name": "default"
+    }
+  }
+}

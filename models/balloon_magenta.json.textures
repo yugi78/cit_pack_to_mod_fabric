@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "magenta_wool",
+        "3": "white_wool",
+        "particle": "magenta_wool"
+      },
+      "name": "default"
+    }
+  }
+}

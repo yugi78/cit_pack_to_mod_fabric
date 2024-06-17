@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "doily_4a",
+        "2": "doily_4b",
+        "particle": "doily_4b"
+      },
+      "name": "default"
+    }
+  }
+}

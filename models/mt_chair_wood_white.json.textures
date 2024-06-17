@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ladder_white",
+        "particle": "ladder_white"
+      },
+      "name": "default"
+    }
+  }
+}

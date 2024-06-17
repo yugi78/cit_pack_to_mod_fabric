@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/1chest_cherry",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/stripped_cherry2",
+        "particle": "garden_breeze_fabric_mod:block/stripped_cherry2",
+        "0": "garden_breeze_fabric_mod:block/stripped_cherry2",
+        "2": "garden_breeze_fabric_mod:block/black_concrete",
+        "3": "garden_breeze_fabric_mod:block/sakura_5a",
+        "4": "garden_breeze_fabric_mod:block/sakura_8"
+    },
+    "render_type": "cutout"
+}

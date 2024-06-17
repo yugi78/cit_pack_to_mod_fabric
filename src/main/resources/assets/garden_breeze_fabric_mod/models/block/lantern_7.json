@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/lantern_7",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/acacia_planks",
+        "particle": "garden_breeze_fabric_mod:block/red_lantern_black",
+        "0": "garden_breeze_fabric_mod:block/red_lantern_black",
+        "1": "garden_breeze_fabric_mod:block/red_lantern_side2",
+        "2": "garden_breeze_fabric_mod:block/red_lantern_top1"
+    },
+    "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "pinksucculent",
+        "1": "diorite",
+        "1_0": "gray_stained_glass",
+        "particle": "gray_stained_glass"
+      },
+      "name": "default"
+    }
+  }
+}

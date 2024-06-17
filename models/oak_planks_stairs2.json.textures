@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "oak_planks_a",
+        "1": "wood2",
+        "particle": "oak_planks_mod"
+      },
+      "name": "default"
+    }
+  }
+}

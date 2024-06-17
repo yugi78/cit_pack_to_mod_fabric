@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "canasto1",
+        "2": "embroidery_bird1",
+        "particle": "canasto1"
+      },
+      "name": "default"
+    }
+  }
+}

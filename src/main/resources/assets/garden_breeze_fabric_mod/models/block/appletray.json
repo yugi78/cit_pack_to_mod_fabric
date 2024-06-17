@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/appletray_candy",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/white_concrete_powder",
+        "particle": "garden_breeze_fabric_mod:block/stripped_oak_log",
+        "0": "garden_breeze_fabric_mod:block/apple_0",
+        "1": "garden_breeze_fabric_mod:block/stripped_oak_log",
+        "2": "garden_breeze_fabric_mod:block/white_concrete_powder"
+    },
+    "render_type": "solid"
+}

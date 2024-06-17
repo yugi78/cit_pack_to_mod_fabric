@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_food_chicken",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/meat_chicken",
+        "0": "garden_breeze_fabric_mod:block/dish",
+        "1": "garden_breeze_fabric_mod:block/leaves_platan_b",
+        "2": "garden_breeze_fabric_mod:block/meat_chicken",
+        "3": "garden_breeze_fabric_mod:block/box_fru2",
+        "4": "garden_breeze_fabric_mod:block/box_vege0"
+    },
+    "render_type": "cutout"
+}

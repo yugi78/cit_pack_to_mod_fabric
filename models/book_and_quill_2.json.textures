@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "book_and_quill_0",
+        "1": "paper_3"
+      },
+      "name": "default"
+    }
+  }
+}

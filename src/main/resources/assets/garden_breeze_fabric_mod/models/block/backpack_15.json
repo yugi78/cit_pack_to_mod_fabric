@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/backpack_yellow",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/plate_gold",
+        "particle": "garden_breeze_fabric_mod:block/yellow_wool",
+        "0": "garden_breeze_fabric_mod:block/yellow_wool",
+        "1": "garden_breeze_fabric_mod:block/plate_gold",
+        "2": "garden_breeze_fabric_mod:block/iron_ingot_0"
+    },
+    "render_type": "solid"
+}

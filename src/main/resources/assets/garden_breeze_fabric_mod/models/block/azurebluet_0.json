@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/azure_bluet_0",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/flower_pot_2a",
+    "1_0": "garden_breeze_fabric_mod:block/azure_bluet_0",
+    "1_1": "garden_breeze_fabric_mod:block/azure_bluet_0_01"
+  },
+  "render_type": "cutout"
+}

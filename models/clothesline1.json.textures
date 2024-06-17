@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "spruce_planks_vertical",
+        "2": "lead_knot",
+        "3": "clothes",
+        "particle": "lead_knot"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/threearrows",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/smallfeather",
+        "2": "garden_breeze_fabric_mod:block/smallfeather",
+        "3": "garden_breeze_fabric_mod:block/feathers",
+        "4": "garden_breeze_fabric_mod:block/furnace_top"
+    },
+    "render_type": "cutout"
+}

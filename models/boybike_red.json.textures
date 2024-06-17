@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "black_concrete",
+        "1": "light_gray_concrete",
+        "2": "red_concrete",
+        "3": "gray_terracotta"
+      },
+      "name": "default"
+    }
+  }
+}

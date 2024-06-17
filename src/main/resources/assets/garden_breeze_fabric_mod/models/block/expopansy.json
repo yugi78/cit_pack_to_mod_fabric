@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/expo_pansy",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/canasto1",
+    "0": "garden_breeze_fabric_mod:block/canasto1",
+    "1": "garden_breeze_fabric_mod:block/spruce_mod",
+    "2": "garden_breeze_fabric_mod:block/pansy"
+  },
+  "render_type": "cutout"
+}

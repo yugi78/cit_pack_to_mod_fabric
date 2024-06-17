@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "light_weighted_pressure_plate_0"
+      },
+      "name": "default"
+    }
+  }
+}

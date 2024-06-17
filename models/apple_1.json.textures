@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "apple_0",
+        "1": "basket"
+      },
+      "name": "default"
+    }
+  }
+}

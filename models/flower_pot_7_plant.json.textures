@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "flower_pot2",
+        "2": "flower_pot4",
+        "particle": "flower_pot2"
+      },
+      "name": "default"
+    }
+  }
+}

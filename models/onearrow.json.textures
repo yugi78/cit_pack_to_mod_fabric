@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "smallfeather",
+        "3": "feathers",
+        "4": "furnace_top",
+        "particle": "smallfeather"
+      },
+      "name": "default"
+    }
+  }
+}

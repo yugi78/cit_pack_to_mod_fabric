@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cornflower",
+        "2": "stripped_dark_oak_log",
+        "3": "oak_planks",
+        "particle": "stripped_dark_oak_log",
+        "1_0": "tulip_planter_a"
+      },
+      "name": "default"
+    }
+  }
+}

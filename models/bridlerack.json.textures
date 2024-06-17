@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "leather_0",
+        "1": "furnace_top",
+        "2": "book_1",
+        "particle": "leather_0"
+      },
+      "name": "default"
+    }
+  }
+}

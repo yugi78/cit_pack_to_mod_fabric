@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/fishing_net",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/fishing_net",
+        "0": "garden_breeze_fabric_mod:block/fishing_net"
+    },
+    "render_type": "cutout"
+}

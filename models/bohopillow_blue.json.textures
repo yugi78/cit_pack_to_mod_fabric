@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bluenwhitemandala",
+        "1": "bluenwhitemandalatransparent",
+        "particle": "bluenwhitemandala"
+      },
+      "name": "default"
+    }
+  }
+}

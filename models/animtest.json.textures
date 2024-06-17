@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "main": "animtest1"
+      },
+      "name": "default"
+    }
+  }
+}

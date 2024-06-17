@@ -1,0 +1,22 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/lattice_spruce_flower",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/spruce_planks",
+        "0": "garden_breeze_fabric_mod:block/spruce_planks",
+        "1": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "1_0": "garden_breeze_fabric_mod:block/grass_5",
+        "top": "garden_breeze_fabric_mod:block/grass_5c",
+        "middle": "garden_breeze_fabric_mod:block/grass_5b",
+        "lower": "garden_breeze_fabric_mod:block/grass_5a",
+        "2_0": "garden_breeze_fabric_mod:block/vine_2",
+        "2_1": "garden_breeze_fabric_mod:block/vine_2a",
+        "3_0": "garden_breeze_fabric_mod:block/vine_2",
+        "3_1": "garden_breeze_fabric_mod:block/vine_2a",
+        "4_0": "garden_breeze_fabric_mod:block/vine_4",
+        "4_1": "garden_breeze_fabric_mod:block/vine_4a",
+        "5_0": "garden_breeze_fabric_mod:block/vine_1",
+        "5_1": "garden_breeze_fabric_mod:block/vine_1a"
+    },
+    "render_type": "cutout"
+}

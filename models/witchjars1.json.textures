@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "book_and_quill_0",
+        "2": "acacia_sapling_3",
+        "3": "frog",
+        "particle": "book_and_quill_0",
+        "1_0": "pumpkin_seeds_0"
+      },
+      "name": "default"
+    }
+  }
+}

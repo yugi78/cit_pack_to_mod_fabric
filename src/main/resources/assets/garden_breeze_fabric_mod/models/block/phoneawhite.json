@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_phone_a_white",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/telephone_a_body_white",
+        "body": "garden_breeze_fabric_mod:block/telephone_a_body_white",
+        "parts": "garden_breeze_fabric_mod:block/telephone_a_parts_white"
+    },
+    "render_type": "cutout"
+}

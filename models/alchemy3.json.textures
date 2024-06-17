@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "horn_coral_block",
+        "4": "gray_concrete_powder",
+        "5": "bubble_coral_block",
+        "6": "torch_w",
+        "2_0": "potion_0"
+      },
+      "name": "default"
+    }
+  }
+}

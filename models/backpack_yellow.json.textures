@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "yellow_wool",
+        "1": "plate_gold",
+        "2": "iron_ingot_0",
+        "particle": "yellow_wool"
+      },
+      "name": "default"
+    }
+  }
+}

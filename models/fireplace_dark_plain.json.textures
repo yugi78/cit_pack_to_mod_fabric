@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "main": "fireplace_dark_1"
+      },
+      "name": "default"
+    }
+  }
+}

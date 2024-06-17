@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "picnicbasket",
+        "particle": "picnicbasket",
+        "3_0": "beetroot_0"
+      },
+      "name": "default"
+    }
+  }
+}

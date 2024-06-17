@@ -1,0 +1,9 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/chess_1",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/chess_1",
+    "particle": "garden_breeze_fabric_mod:block/chess_1",
+    "0": "garden_breeze_fabric_mod:block/chess_1"
+  },
+  "render_type": "cutout"
+}

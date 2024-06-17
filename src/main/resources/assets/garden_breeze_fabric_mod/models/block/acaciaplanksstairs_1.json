@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/acacia_planks_stairs1",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/acacia_planks",
+        "particle": "garden_breeze_fabric_mod:block/acacia_planks",
+        "0": "garden_breeze_fabric_mod:block/stripped_acacia_log_a",
+        "1": "garden_breeze_fabric_mod:block/oldtv_bottom"
+    },
+    "render_type": "solid"
+}

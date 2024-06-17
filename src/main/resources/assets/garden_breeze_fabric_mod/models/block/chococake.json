@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/cake_chocdrip",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/cake_chocdrip",
+        "particle": "garden_breeze_fabric_mod:block/icecream_vanilla",
+        "1": "garden_breeze_fabric_mod:block/cake_chocdrip",
+        "2": "garden_breeze_fabric_mod:block/white_concrete_powder",
+        "1_1_2": "garden_breeze_fabric_mod:block/icecream_vanilla"
+    },
+    "render_type": "cutout"
+}

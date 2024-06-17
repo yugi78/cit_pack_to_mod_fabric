@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "stripped_spruce_log_a",
+        "2": "oak_planks_a",
+        "5": "hanger1",
+        "6": "white_wool_sheet_left",
+        "7": "white_wool_teatowel",
+        "8": "white_wool_sheet",
+        "particle": "white_wool_sheet"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/darkoak_planter_dandelion",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/dark_oak_planks_mod",
+    "1": "garden_breeze_fabric_mod:block/dirt_mod",
+    "2": "garden_breeze_fabric_mod:block/dandelion_mod",
+    "3_0": "garden_breeze_fabric_mod:block/dark_oak_planks_mod"
+  },
+  "render_type": "cutout"
+}

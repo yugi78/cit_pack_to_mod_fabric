@@ -1,0 +1,19 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cone",
+        "3": "white_stained_glass",
+        "4": "white_concrete",
+        "5": "white_wool",
+        "6": "stripped_oak_log",
+        "7": "pink_wool",
+        "8": "waterstill",
+        "9": "icecreamcart",
+        "2_1": "light_gray_concrete",
+        "3_1": "stripe_pink"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/display_beetroot",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/beetroot_0",
+        "0": "garden_breeze_fabric_mod:block/bread_2",
+        "1": "garden_breeze_fabric_mod:block/barrel_5b",
+        "2": "garden_breeze_fabric_mod:block/spruce_planks",
+        "3_0": "garden_breeze_fabric_mod:block/beetroot_0"
+    },
+    "render_type": "cutout"
+}

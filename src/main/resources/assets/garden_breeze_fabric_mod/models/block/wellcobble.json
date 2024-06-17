@@ -1,0 +1,16 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/well_cobble",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/cobblestone",
+        "0": "garden_breeze_fabric_mod:block/cobblestone",
+        "1": "garden_breeze_fabric_mod:block/bucket_1b",
+        "2": "garden_breeze_fabric_mod:block/waterstill",
+        "3": "garden_breeze_fabric_mod:block/barrel_6b",
+        "4": "garden_breeze_fabric_mod:block/spruce_planks_vertical",
+        "5": "garden_breeze_fabric_mod:block/spruce_log",
+        "6": "garden_breeze_fabric_mod:block/lead_knot",
+        "1_0": "garden_breeze_fabric_mod:block/bucket_1a"
+    },
+    "render_type": "cutout"
+}

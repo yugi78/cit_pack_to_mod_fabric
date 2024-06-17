@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "sugar_5_jar",
+        "1": "sugar_5",
+        "2": "sugar_5_01"
+      },
+      "name": "default"
+    }
+  }
+}

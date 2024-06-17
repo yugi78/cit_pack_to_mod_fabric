@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "birch_planks_mod",
+        "1": "rope",
+        "particle": "birch_planks_mod"
+      },
+      "name": "default"
+    }
+  }
+}

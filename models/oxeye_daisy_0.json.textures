@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "flower_pot_2a",
+        "1_0": "oxeye_daisy_0",
+        "1_1": "oxeye_daisy_0_01"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bottle_b",
+        "1": "leaves_bougainvillea_purple_flowers",
+        "2": "awning_white",
+        "6": "juice_a",
+        "7": "juice_a",
+        "8": "juice_a",
+        "12": "leaves_dogwood_flowers",
+        "0b": "bottle_b",
+        "1b": "leaves_bougainvillea_purple_flowers",
+        "2b": "awning_white",
+        "6b": "juice_a",
+        "7b": "juice_a",
+        "8b": "juice_a",
+        "12b": "leaves_dogwood_flowers",
+        "particle": "leaves_dogwood_flowers"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1_0": "pumpkin_seeds_0"
+      },
+      "name": "default"
+    }
+  }
+}

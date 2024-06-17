@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ladder_acacia",
+        "particle": "ladder_acacia"
+      },
+      "name": "default"
+    }
+  }
+}

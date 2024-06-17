@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "dirt_mod",
+        "2": "oxeye_daisy_mod",
+        "3": "bricks_mod",
+        "particle": "bricks_mod"
+      },
+      "name": "default"
+    }
+  }
+}

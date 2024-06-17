@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "hankerchief",
+        "1": "stripped_spruce_log_a",
+        "2": "oak_planks_a",
+        "4": "blue_wool_skirt",
+        "5": "hanger1",
+        "6": "white_wool_shirt",
+        "particle": "hankerchief"
+      },
+      "name": "default"
+    }
+  }
+}

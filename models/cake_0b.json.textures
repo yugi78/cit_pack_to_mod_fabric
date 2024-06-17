@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "plate_white",
+        "2": "cake_top_mod",
+        "3": "cake_side_mod",
+        "1": "cake_inner_mod",
+        "4": "cutlery"
+      },
+      "name": "default"
+    }
+  }
+}

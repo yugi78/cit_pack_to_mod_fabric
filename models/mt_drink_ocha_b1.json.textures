@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "yunomi1": "ocha_b",
+        "cha1": "dango",
+        "hot1": "hot",
+        "yunomi2": "c",
+        "cha2": "c",
+        "hot2": "c",
+        "particle": "ocha_b"
+      },
+      "name": "default"
+    }
+  }
+}

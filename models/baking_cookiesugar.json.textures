@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_ingot_0",
+        "1": "baked_potato_0b",
+        "particle": "iron_ingot_0"
+      },
+      "name": "default"
+    }
+  }
+}

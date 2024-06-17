@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dark_oak_planks_mod",
+        "1": "dirt_mod",
+        "2": "oxeye_daisy_mod",
+        "particle": "dark_oak_planks_mod"
+      },
+      "name": "default"
+    }
+  }
+}

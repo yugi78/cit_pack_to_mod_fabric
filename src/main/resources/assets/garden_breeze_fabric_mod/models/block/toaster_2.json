@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/toaster2",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/red_concrete",
+        "0": "garden_breeze_fabric_mod:block/red_concrete",
+        "1": "garden_breeze_fabric_mod:block/anvil"
+    },
+    "render_type": "cutout"
+}

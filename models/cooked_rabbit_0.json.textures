@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "plate_black",
+        "1": "cooked_rabbit_0"
+      },
+      "name": "default"
+    }
+  }
+}

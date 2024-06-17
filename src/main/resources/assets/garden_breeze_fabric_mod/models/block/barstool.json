@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/barstool1acacia",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/stripped_acacia_log",
+        "particle": "garden_breeze_fabric_mod:block/stripped_acacia_log",
+        "0": "garden_breeze_fabric_mod:block/stripped_acacia_log"
+    },
+    "render_type": "solid"
+}

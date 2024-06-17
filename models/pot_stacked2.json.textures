@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "terracotta",
+        "particle": "terracotta"
+      },
+      "name": "default"
+    }
+  }
+}

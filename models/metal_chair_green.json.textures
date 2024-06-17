@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "metal_back_green",
+        "1": "metal_bottom_green",
+        "particle": "metal_back_green"
+      },
+      "name": "default"
+    }
+  }
+}

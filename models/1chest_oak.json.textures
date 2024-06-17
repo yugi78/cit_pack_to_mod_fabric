@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "double_slab_oak",
+        "1": "stripped_dark_oak_log",
+        "2": "black_concrete",
+        "particle": "double_slab_oak"
+      },
+      "name": "default"
+    }
+  }
+}

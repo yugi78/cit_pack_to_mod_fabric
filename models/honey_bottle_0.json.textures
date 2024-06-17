@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "potion_0",
+        "1": "honey_bottle_0"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "bottle_a",
+        "0": "bottle_a"
+      },
+      "name": "default"
+    }
+  }
+}

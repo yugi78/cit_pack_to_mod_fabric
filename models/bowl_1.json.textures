@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bowl_0",
+        "1": "bowl_1"
+      },
+      "name": "default"
+    }
+  }
+}

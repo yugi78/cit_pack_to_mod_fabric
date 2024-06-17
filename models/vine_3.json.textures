@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "vine_2",
+        "1": "vine_2_01"
+      },
+      "name": "default"
+    }
+  }
+}

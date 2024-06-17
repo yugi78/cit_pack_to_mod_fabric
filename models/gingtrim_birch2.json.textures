@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fence_birch",
+        "1": "double_slab_birch",
+        "particle": "fence_birch"
+      },
+      "name": "default"
+    }
+  }
+}

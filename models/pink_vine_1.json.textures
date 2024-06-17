@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "pink_vine_1",
+        "1": "pink_vine_2",
+        "particle": "pink_vine_1"
+      },
+      "name": "default"
+    }
+  }
+}

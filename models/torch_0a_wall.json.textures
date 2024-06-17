@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "torch_0a",
+        "1": "torch_wall_0a"
+      },
+      "name": "default"
+    }
+  }
+}

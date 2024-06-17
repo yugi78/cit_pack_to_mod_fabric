@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_spruce_log",
+        "1": "spruce_planks",
+        "particle": "stripped_spruce_log"
+      },
+      "name": "default"
+    }
+  }
+}

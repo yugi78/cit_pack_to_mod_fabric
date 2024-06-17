@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/beachchair1lime",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/lime",
+        "particle": "garden_breeze_fabric_mod:block/stripped_oak_log",
+        "0": "garden_breeze_fabric_mod:block/stripped_oak_log",
+        "1": "garden_breeze_fabric_mod:block/lime"
+    },
+    "render_type": "cutout_mipped"
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "orange_wool_mod"
+      },
+      "name": "default"
+    }
+  }
+}

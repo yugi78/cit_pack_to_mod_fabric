@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/embroidery_flower6",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/chess_1",
+    "particle": "garden_breeze_fabric_mod:block/canasto1",
+    "0": "garden_breeze_fabric_mod:block/canasto1",
+    "1": "garden_breeze_fabric_mod:block/embroidery_flower6"
+  },
+  "render_type": "cutout"
+}

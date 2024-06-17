@@ -1,0 +1,15 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_desktop_knitting",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/pot_rattan",
+        "1": "garden_breeze_fabric_mod:block/pot_rattan",
+        "2": "garden_breeze_fabric_mod:block/wool_colored_yellow",
+        "3": "garden_breeze_fabric_mod:block/wool_colored_red",
+        "4": "garden_breeze_fabric_mod:block/wool_colored_lime",
+        "5": "garden_breeze_fabric_mod:block/wool_colored_white",
+        "6": "garden_breeze_fabric_mod:block/wood_oak_upper_molding",
+        "7": "garden_breeze_fabric_mod:block/knitting_part"
+    },
+    "render_type": "cutout"
+}

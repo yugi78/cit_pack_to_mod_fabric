@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "red_lantern_black",
+        "2": "red_lantern_side1"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fence_dark_oak",
+        "1": "dark_oak_planks_vertical"
+      },
+      "name": "default"
+    }
+  }
+}

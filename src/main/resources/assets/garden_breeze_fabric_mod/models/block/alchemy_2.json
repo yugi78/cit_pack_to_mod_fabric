@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/alchemy2",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/tube_coral_block",
+        "particle": "garden_breeze_fabric_mod:block/gray_concrete",
+        "1": "garden_breeze_fabric_mod:block/fire_coral_block",
+        "2": "garden_breeze_fabric_mod:block/gray_concrete",
+        "3": "garden_breeze_fabric_mod:block/tube_coral_block",
+        "2_0": "garden_breeze_fabric_mod:block/potion_0"
+    },
+    "render_type": "translucent"
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fence_oak",
+        "1": "stripped_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "green_pumpkin_side",
+        "1": "green_pumpkin_top",
+        "2": "oak_log",
+        "3": "jungle_sapling_4",
+        "particle": "pumpkin_side"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/fishingpole_propped",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "0": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "1": "garden_breeze_fabric_mod:block/tripwire_hook",
+        "2": "garden_breeze_fabric_mod:block/furnace_top",
+        "3": "garden_breeze_fabric_mod:block/spruce_planks_vertical",
+        "4": "garden_breeze_fabric_mod:block/fishing_hook",
+        "5": "garden_breeze_fabric_mod:block/white_wool",
+        "6": "garden_breeze_fabric_mod:block/dark_oak_log",
+        "7": "garden_breeze_fabric_mod:block/acacia_sapling_3a"
+    },
+    "render_type": "cutout"
+}

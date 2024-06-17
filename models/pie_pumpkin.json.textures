@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_ingot_0",
+        "1": "oak_log_top",
+        "2": "cut_red_sandstone_top",
+        "1_2": "icecream_vanilla",
+        "particle": "icecream_vanilla"
+      },
+      "name": "default"
+    }
+  }
+}

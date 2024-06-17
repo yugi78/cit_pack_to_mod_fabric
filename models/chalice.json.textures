@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "red_tulip",
+        "1": "iron_ingot_0",
+        "2": "purple_terracotta",
+        "particle": "red_tulip"
+      },
+      "name": "default"
+    }
+  }
+}

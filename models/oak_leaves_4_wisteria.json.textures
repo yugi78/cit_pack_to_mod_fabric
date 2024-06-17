@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wisteria5",
+        "1": "wisteria6",
+        "2": "wisteria7",
+        "3": "wisteria8"
+      },
+      "name": "default"
+    }
+  }
+}

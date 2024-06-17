@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cauldron_0",
+        "1": "cauldron_2",
+        "2": "cauldron_3"
+      },
+      "name": "default"
+    }
+  }
+}

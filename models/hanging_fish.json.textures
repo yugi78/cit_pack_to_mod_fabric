@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lead_knot",
+        "1_1_0": "cod_0",
+        "3_1_1_0": "salmon_0"
+      },
+      "name": "default"
+    }
+  }
+}

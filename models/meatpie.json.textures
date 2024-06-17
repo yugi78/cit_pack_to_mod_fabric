@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "podzol2",
+        "1": "stripped_birch_log",
+        "2": "anvil",
+        "4": "pietop",
+        "particle": "podzol2"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "grass_5",
+        "1": "feathers",
+        "2": "stripped_dark_oak_log",
+        "4": "lime_concrete",
+        "6": "bone_block_side",
+        "7_1": "white_concrete",
+        "particle": "white_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

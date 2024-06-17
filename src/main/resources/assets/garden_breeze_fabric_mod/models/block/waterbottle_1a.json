@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/water_bottle_1a",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/water_bottle_1a",
+    "1": "garden_breeze_fabric_mod:block/water_bottle_1a_01"
+  },
+  "render_type": "translucent"
+}

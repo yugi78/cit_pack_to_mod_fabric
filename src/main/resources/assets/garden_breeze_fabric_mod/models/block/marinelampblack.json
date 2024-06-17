@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_marinelamp_black",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/pipe_black",
+        "0": "garden_breeze_fabric_mod:block/lamplight",
+        "2": "garden_breeze_fabric_mod:block/pipe_black"
+    },
+    "render_type": "cutout"
+}

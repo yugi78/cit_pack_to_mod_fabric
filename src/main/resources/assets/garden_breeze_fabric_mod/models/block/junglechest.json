@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/1chest_jungle",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/jungle_log",
+        "particle": "garden_breeze_fabric_mod:block/basket",
+        "0": "garden_breeze_fabric_mod:block/basket",
+        "1": "garden_breeze_fabric_mod:block/jungle_log",
+        "2": "garden_breeze_fabric_mod:block/black_concrete",
+        "3": "garden_breeze_fabric_mod:block/vine_5a_bottom",
+        "4": "garden_breeze_fabric_mod:block/vine_8"
+    },
+    "render_type": "cutout"
+}

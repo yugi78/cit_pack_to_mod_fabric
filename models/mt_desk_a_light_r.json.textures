@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "table_lightbrown_top",
+        "2": "table_lightbrown_parts",
+        "3": "table_lightbrown_top",
+        "particle": "table_lightbrown_top"
+      },
+      "name": "default"
+    }
+  }
+}

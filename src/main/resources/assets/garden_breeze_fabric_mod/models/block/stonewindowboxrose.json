@@ -1,0 +1,12 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/stone_windowbox_rose",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/canasto1",
+    "1": "garden_breeze_fabric_mod:block/dirt_mod",
+    "2": "garden_breeze_fabric_mod:block/rose_bush_top_mod",
+    "3": "garden_breeze_fabric_mod:block/stone_bricks_mod",
+    "5": "garden_breeze_fabric_mod:block/iron_block_mod"
+  },
+  "render_type": "cutout"
+}

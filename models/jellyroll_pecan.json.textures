@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "jellyroll_pecan",
+        "2": "white_concrete_powder",
+        "3": "grass_5",
+        "4": "vine_4a",
+        "particle": "jellyroll_pecan"
+      },
+      "name": "default"
+    }
+  }
+}

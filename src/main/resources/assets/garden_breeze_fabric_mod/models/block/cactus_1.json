@@ -1,0 +1,10 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/cactus_1",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/cactus_1",
+    "1_0": "garden_breeze_fabric_mod:block/cactus_pot_0_01"
+  },
+  "render_type": "cutout"
+}

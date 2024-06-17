@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "oak_leaves_2a",
+        "2": "oak_leaves_2a_01",
+        "3": "oak_leaves_2a_02"
+      },
+      "name": "default"
+    }
+  }
+}

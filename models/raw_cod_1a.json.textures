@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "raw_meat_hook",
+        "1": "raw_cod_0a"
+      },
+      "name": "default"
+    }
+  }
+}

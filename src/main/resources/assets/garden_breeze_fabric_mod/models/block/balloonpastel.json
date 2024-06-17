@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/balloons_pastel",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/canvas",
+        "particle": "garden_breeze_fabric_mod:block/yellow_wool",
+        "0": "garden_breeze_fabric_mod:block/yellow_wool",
+        "1": "garden_breeze_fabric_mod:block/light_blue_wool",
+        "2": "garden_breeze_fabric_mod:block/pink_wool",
+        "3": "garden_breeze_fabric_mod:block/white_wool",
+        "4": "garden_breeze_fabric_mod:block/canvas"
+    },
+    "render_type": "solid"
+}

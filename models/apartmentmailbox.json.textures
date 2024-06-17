@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_ingot_0",
+        "1": "black_concrete",
+        "2": "light_gray_concrete",
+        "3": "book_and_quill_0",
+        "particle": "iron_ingot_0"
+      },
+      "name": "default"
+    }
+  }
+}

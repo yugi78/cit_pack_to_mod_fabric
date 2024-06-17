@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/metal_table_white",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/metal_back_white",
+    "0": "garden_breeze_fabric_mod:block/metal_back_white",
+    "1": "garden_breeze_fabric_mod:block/metal_table_bottom",
+    "2": "garden_breeze_fabric_mod:block/metal_table_top_white"
+  },
+  "render_type": "cutout_mipped"
+}

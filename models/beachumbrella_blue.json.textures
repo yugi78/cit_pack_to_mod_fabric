@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "white_concrete",
+        "1": "blue_concrete",
+        "2": "stripped_oak_log",
+        "particle": "white_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

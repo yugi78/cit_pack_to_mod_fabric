@@ -1,0 +1,21 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "piano_key_parts_black",
+        "5": "brass_parts",
+        "6": "piano_side_black",
+        "7": "piano_key_left_black",
+        "8": "piano_key_middle_black",
+        "9": "piano_key_right_black",
+        "10": "piano_nocloth_black",
+        "15": "piano_top_black",
+        "12": "piano_front_black_1",
+        "13": "piano_plate_black",
+        "14": "piano_front_black_2",
+        "particle": "piano_key_parts_black"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cooking_pot_0"
+      },
+      "name": "default"
+    }
+  }
+}

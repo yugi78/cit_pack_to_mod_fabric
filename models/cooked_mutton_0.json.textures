@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cooked_mutton_0_01",
+        "1": "cooked_mutton_0"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_bunkerslamp_b",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/bunkerslamp1",
+        "0": "garden_breeze_fabric_mod:block/bunkerslamp1",
+        "1": "garden_breeze_fabric_mod:block/bunkerslamp_gold"
+    },
+    "render_type": "cutout"
+}

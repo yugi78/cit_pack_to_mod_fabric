@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "shelf_book",
+        "2": "lantern_steel_frame_silver",
+        "3": "paper_1",
+        "4": "desk1",
+        "5": "moviecamera2",
+        "particle": "shelf_book"
+      },
+      "name": "default"
+    }
+  }
+}

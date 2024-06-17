@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "paper_1",
+        "3": "paper_1",
+        "4": "desk1",
+        "5": "moviecamera2",
+        "6": "street_clock_face",
+        "7": "streetlamp_gold",
+        "9": "telephone_a_parts_wood",
+        "10": "desk2"
+      },
+      "name": "default"
+    }
+  }
+}

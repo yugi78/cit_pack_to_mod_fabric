@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "terracotta_3",
+        "1": "terracotta_3_01"
+      },
+      "name": "default"
+    }
+  }
+}

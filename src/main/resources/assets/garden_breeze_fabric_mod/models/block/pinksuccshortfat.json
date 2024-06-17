@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/pinksucc_shortfat",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/gray_stained_glass",
+        "0": "garden_breeze_fabric_mod:block/pinksucculent",
+        "1": "garden_breeze_fabric_mod:block/diorite",
+        "1_0": "garden_breeze_fabric_mod:block/gray_stained_glass"
+    },
+    "render_type": "translucent"
+}

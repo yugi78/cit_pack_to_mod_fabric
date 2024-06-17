@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cake_1",
+        "1": "cake_1_01",
+        "2": "plate_gold",
+        "4": "cutlery_gold"
+      },
+      "name": "default"
+    }
+  }
+}

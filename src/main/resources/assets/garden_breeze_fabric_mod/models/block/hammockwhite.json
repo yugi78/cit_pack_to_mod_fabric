@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/hammock_white",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/hammockstring",
+        "0": "garden_breeze_fabric_mod:block/hammockstring",
+        "1": "garden_breeze_fabric_mod:block/white_wool",
+        "2": "garden_breeze_fabric_mod:block/anvil",
+        "3": "garden_breeze_fabric_mod:block/stripped_oak_log"
+    },
+    "render_type": "cutout"
+}

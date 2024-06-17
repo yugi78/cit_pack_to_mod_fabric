@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "apple_caramelgreen",
+        "1": "stripped_oak_log",
+        "2": "white_concrete_powder",
+        "particle": "stripped_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/orange_cupcake",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/blackcupcake",
+        "1": "garden_breeze_fabric_mod:block/cupcakewrapper",
+        "3": "garden_breeze_fabric_mod:block/orangecupcake"
+    },
+    "render_type": "cutout"
+}

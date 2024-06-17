@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/bitta_battleaxe",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/gray_concrete",
+        "particle": "garden_breeze_fabric_mod:block/dark_oak_log",
+        "0": "garden_breeze_fabric_mod:block/dark_oak_log",
+        "1": "garden_breeze_fabric_mod:block/light_gray_concrete",
+        "2": "garden_breeze_fabric_mod:block/gray_concrete"
+    },
+    "render_type": "solid"
+}

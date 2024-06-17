@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/bike_pink_hydrangea_lilac",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/hydrangea_lilac",
+    "2": "garden_breeze_fabric_mod:block/hydrangea_lilac",
+    "4": "garden_breeze_fabric_mod:block/canasto1",
+    "2_7": "garden_breeze_fabric_mod:block/bici"
+  },
+  "render_type": "cutout"
+}

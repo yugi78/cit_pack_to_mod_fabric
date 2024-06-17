@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "flower_pot2",
+        "2": "flower_pot4"
+      },
+      "name": "default"
+    }
+  }
+}

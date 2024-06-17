@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "spruce_planks",
+        "1": "iron_ingot_0",
+        "2": "black_concrete",
+        "particle": "spruce_planks"
+      },
+      "name": "default"
+    }
+  }
+}

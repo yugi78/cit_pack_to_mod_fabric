@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "jungle_leaves_0",
+        "1": "jungle_leaves_1"
+      },
+      "name": "default"
+    }
+  }
+}

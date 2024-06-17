@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bowl_2",
+        "1": "white_wool_mod"
+      },
+      "name": "default"
+    }
+  }
+}

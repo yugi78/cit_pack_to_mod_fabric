@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ladder_dark_oak",
+        "particle": "ladder_dark_oak"
+      },
+      "name": "default"
+    }
+  }
+}

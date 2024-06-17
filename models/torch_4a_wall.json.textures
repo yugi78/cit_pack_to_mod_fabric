@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "torch_4": "torch_4a"
+      },
+      "name": "default"
+    }
+  }
+}

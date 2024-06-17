@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "typewriter_0",
+        "1": "typewriter_0_1",
+        "2": "typewriter_0_2"
+      },
+      "name": "default"
+    }
+  }
+}

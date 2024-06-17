@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wall_shelf",
+        "1": "painting_decor_33",
+        "2": "book_0",
+        "3": "book_3"
+      },
+      "name": "default"
+    }
+  }
+}

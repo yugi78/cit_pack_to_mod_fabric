@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "weighing_paper",
+        "1": "nether_wart_1"
+      },
+      "name": "default"
+    }
+  }
+}

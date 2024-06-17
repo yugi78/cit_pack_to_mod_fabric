@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "redstone_0",
+        "1": "runes",
+        "particle": "runes"
+      },
+      "name": "default"
+    }
+  }
+}

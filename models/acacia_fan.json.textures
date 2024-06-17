@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "main": "acacia_fan1"
+      },
+      "name": "default"
+    }
+  }
+}

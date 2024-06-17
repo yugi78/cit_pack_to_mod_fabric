@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "pile_of_dirt",
+        "2": "iron_pitcher",
+        "3": "oak_planks_mod",
+        "particle": "pile_of_dirt"
+      },
+      "name": "default"
+    }
+  }
+}

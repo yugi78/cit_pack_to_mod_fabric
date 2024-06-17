@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "garden_breeze_fabric_mod:block/darkoakwindowboxallium"
+    },
+    "facing=east": {
+      "model": "garden_breeze_fabric_mod:block/darkoakwindowboxallium",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "garden_breeze_fabric_mod:block/darkoakwindowboxallium",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "garden_breeze_fabric_mod:block/darkoakwindowboxallium",
+      "y": 270
+    }
+  }
+}

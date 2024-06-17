@@ -1,0 +1,11 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/lilac_0",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "1_0": "garden_breeze_fabric_mod:block/lilac_bottom_mod",
+    "0": "garden_breeze_fabric_mod:block/lilac_top_mod",
+    "1": "garden_breeze_fabric_mod:block/flower_pot_l_0a"
+  },
+  "render_type": "cutout"
+}

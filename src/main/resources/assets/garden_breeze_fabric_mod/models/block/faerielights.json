@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/faerielights",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/faerielight",
+        "0": "garden_breeze_fabric_mod:block/faerielight"
+    },
+    "render_type": "cutout"
+}

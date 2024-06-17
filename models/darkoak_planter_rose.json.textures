@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "dirt_mod",
+        "2": "rose_bush_top_mod",
+        "particle": "dark_oak_planks_mod",
+        "3_0": "dark_oak_planks_mod"
+      },
+      "name": "default"
+    }
+  }
+}

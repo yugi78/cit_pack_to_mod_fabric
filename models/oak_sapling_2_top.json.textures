@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "oak_sapling_2",
+        "1": "oak_sapling_2_wall",
+        "1_0": "flower_pot_2a",
+        "1_1": "flower_pot_4"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/display_carrot",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/beetroot_0",
+        "0": "garden_breeze_fabric_mod:block/bread_2",
+        "1": "garden_breeze_fabric_mod:block/pumpkin_side",
+        "2": "garden_breeze_fabric_mod:block/spruce_planks",
+        "3_1": "garden_breeze_fabric_mod:block/carrot_0"
+    },
+    "render_type": "cutout"
+}

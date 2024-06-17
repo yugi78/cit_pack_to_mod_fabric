@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/bohopillow_purple",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/purplemandala",
+        "particle": "garden_breeze_fabric_mod:block/purplemandala",
+        "0": "garden_breeze_fabric_mod:block/purplemandala",
+        "1": "garden_breeze_fabric_mod:block/purplemandalatrans"
+    },
+    "render_type": "cutout"
+}

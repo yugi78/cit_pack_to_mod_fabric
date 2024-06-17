@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_register_brown",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/regi1",
+        "0": "garden_breeze_fabric_mod:block/regi1",
+        "1": "garden_breeze_fabric_mod:block/regi2",
+        "2": "garden_breeze_fabric_mod:block/gramophone_parts",
+        "3": "garden_breeze_fabric_mod:block/piano_top_brown"
+    },
+    "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/summoningsmall5",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/summoning6",
+        "0": "garden_breeze_fabric_mod:block/summoning6"
+    },
+    "render_type": "cutout"
+}

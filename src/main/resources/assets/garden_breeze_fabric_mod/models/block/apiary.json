@@ -1,0 +1,13 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/apiary",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/furnace_top",
+        "particle": "garden_breeze_fabric_mod:block/black_concrete_powder",
+        "0": "garden_breeze_fabric_mod:block/black_concrete_powder",
+        "1": "garden_breeze_fabric_mod:block/stripped_spruce_log",
+        "2": "garden_breeze_fabric_mod:block/oak_planks",
+        "3": "garden_breeze_fabric_mod:block/birch_planks",
+        "4": "garden_breeze_fabric_mod:block/furnace_top"
+    },
+    "render_type": "solid"
+}

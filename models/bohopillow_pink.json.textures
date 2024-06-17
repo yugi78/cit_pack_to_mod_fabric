@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "pinkmandala",
+        "1": "pinkmandalatransparent",
+        "particle": "pinkmandala"
+      },
+      "name": "default"
+    }
+  }
+}

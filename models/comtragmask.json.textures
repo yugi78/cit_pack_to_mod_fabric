@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "light_gray_concrete_powder",
+        "2": "red_wool",
+        "3": "black_concrete_powder",
+        "particle": "red_wool"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/palmtree",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/cocoa_stage1",
+        "0": "garden_breeze_fabric_mod:block/fern_5",
+        "1": "garden_breeze_fabric_mod:block/cocoa_stage1",
+        "2": "garden_breeze_fabric_mod:block/coarse_dirt",
+        "3": "garden_breeze_fabric_mod:block/red_glazed_terracotta"
+    },
+    "render_type": "cutout"
+}

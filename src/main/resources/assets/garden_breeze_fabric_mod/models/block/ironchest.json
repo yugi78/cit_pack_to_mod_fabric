@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/1chest_iron",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "particle": "garden_breeze_fabric_mod:block/spruce_planks",
+        "0": "garden_breeze_fabric_mod:block/spruce_planks",
+        "1": "garden_breeze_fabric_mod:block/iron_ingot_0",
+        "2": "garden_breeze_fabric_mod:block/black_concrete"
+    },
+    "render_type": "solid"
+}

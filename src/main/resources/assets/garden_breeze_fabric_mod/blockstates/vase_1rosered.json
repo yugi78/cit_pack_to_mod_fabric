@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "garden_breeze_fabric_mod:block/vase_1rosered"
+    },
+    "facing=east": {
+      "model": "garden_breeze_fabric_mod:block/vase_1rosered",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "garden_breeze_fabric_mod:block/vase_1rosered",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "garden_breeze_fabric_mod:block/vase_1rosered",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "maceta_1",
+        "1": "pansy",
+        "particle": "maceta_1"
+      },
+      "name": "default"
+    }
+  }
+}

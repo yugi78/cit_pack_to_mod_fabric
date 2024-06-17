@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/throne_quartz",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/chiseled_quartz_block",
+        "0": "garden_breeze_fabric_mod:block/chiseled_quartz_block",
+        "1": "garden_breeze_fabric_mod:block/quartz_block_stair",
+        "2": "garden_breeze_fabric_mod:block/quartz_block_bottom",
+        "3": "garden_breeze_fabric_mod:block/blue_ice"
+    },
+    "render_type": "cutout"
+}

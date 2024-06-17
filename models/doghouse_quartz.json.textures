@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "quartz_pillar",
+        "1": "stripped_spruce_log",
+        "2": "bone_block_side",
+        "particle": "bone_block_side"
+      },
+      "name": "default"
+    }
+  }
+}

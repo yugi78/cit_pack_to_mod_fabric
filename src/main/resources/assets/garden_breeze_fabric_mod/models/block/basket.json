@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/basket_empty",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/picnicbasket",
+        "particle": "garden_breeze_fabric_mod:block/picnicbasket",
+        "0": "garden_breeze_fabric_mod:block/picnicbasket"
+    },
+    "render_type": "solid"
+}

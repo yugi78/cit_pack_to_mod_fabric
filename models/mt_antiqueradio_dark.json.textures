@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "antiqueradio_a",
+        "body": "antiqueradio_a",
+        "body2": "antiqueradio_a2",
+        "parts": "typewriter_black_parts"
+      },
+      "name": "default"
+    }
+  }
+}

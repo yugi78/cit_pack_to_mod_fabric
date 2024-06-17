@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "leather_frame",
+        "1": "leather_0a"
+      },
+      "name": "default"
+    }
+  }
+}

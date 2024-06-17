@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "magenta_wool",
+        "1": "magenta_glazed_terracotta",
+        "2": "iron_ingot_0",
+        "particle": "magenta_wool"
+      },
+      "name": "default"
+    }
+  }
+}

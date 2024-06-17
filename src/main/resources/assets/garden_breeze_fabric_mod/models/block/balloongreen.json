@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/balloon_green",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/green_concrete",
+        "particle": "garden_breeze_fabric_mod:block/green_concrete",
+        "0": "garden_breeze_fabric_mod:block/green_concrete",
+        "3": "garden_breeze_fabric_mod:block/white_wool"
+    },
+    "render_type": "solid"
+}

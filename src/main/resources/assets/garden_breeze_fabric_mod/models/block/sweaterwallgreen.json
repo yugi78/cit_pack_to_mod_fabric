@@ -1,0 +1,9 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/sweater_wall_green",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/chess_1",
+    "particle": "garden_breeze_fabric_mod:block/sweater_green",
+    "0": "garden_breeze_fabric_mod:block/sweater_green"
+  },
+  "render_type": "cutout"
+}

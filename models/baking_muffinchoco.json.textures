@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_ingot_0",
+        "1": "bush_de_noel_0",
+        "particle": "iron_ingot_0"
+      },
+      "name": "default"
+    }
+  }
+}

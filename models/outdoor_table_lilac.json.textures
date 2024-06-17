@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lilac_planks"
+      },
+      "name": "default"
+    }
+  }
+}

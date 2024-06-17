@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "bricks_mod",
+        "4": "sunflower_bottom_mod",
+        "5": "dirt_mod",
+        "particle": "bricks_mod",
+        "1_2": "sunflower_front",
+        "1_3": "sunflower_back"
+      },
+      "name": "default"
+    }
+  }
+}

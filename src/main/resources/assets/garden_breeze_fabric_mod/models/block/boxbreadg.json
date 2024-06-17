@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_box_bread_g",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/box_vege_bottom",
+        "basket": "garden_breeze_fabric_mod:block/box_vege_bottom",
+        "bread": "garden_breeze_fabric_mod:block/bread"
+    },
+    "render_type": "cutout"
+}

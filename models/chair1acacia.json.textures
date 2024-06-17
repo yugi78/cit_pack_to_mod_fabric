@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_acacia_log",
+        "particle": "stripped_acacia_log"
+      },
+      "name": "default"
+    }
+  }
+}

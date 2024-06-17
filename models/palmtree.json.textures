@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fern_5",
+        "1": "cocoa_stage1",
+        "2": "coarse_dirt",
+        "3": "red_glazed_terracotta",
+        "particle": "cocoa_stage1"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+	"parent": "./cit_item",
+	"textures": {
+		"0": "./lily_of_the_valley_0",
+		"1": "./lily_of_the_valley_0_01"
+	},
+	"elements": [
+		{
+			"from": [0, 2, 0],
+			"to": [16, 2, 16],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 2, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 2, 0],
+			"to": [16, 2, 16],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 2, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 2, 0],
+			"to": [16, 2, 16],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 2, 8]},
+			"faces": {
+				"up": {"uv": [8, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [16, 0, 8, 16], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 2, 0],
+			"to": [8, 2, 16],
+			"rotation": {"angle": -45, "axis": "z", "origin": [8, 2, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 8, 16], "texture": "#1"},
+				"down": {"uv": [8, 0, 0, 16], "rotation": 180, "texture": "#1"}
+			}
+		}
+	]
+}

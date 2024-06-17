@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "collars_black",
+        "4": "oak_planks",
+        "2_1": "collars_pink",
+        "3_1": "collars_red",
+        "4_1": "collars_white",
+        "particle": "oak_planks"
+      },
+      "name": "default"
+    }
+  }
+}

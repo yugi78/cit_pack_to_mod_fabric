@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "blue_orchid_mod",
+        "3": "bricks_mod",
+        "5": "dirt_mod"
+      },
+      "name": "default"
+    }
+  }
+}

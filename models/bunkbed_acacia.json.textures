@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_acacia_log",
+        "1": "acacia_planks_verticle",
+        "particle": "stripped_acacia_log"
+      },
+      "name": "default"
+    }
+  }
+}

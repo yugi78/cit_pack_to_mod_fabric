@@ -1,0 +1,9 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/cauldron_4c",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/allium_0",
+    "particle": "garden_breeze_fabric_mod:block/allium_0",
+    "0": "garden_breeze_fabric_mod:block/kettle_0c"
+  },
+  "render_type": "cutout"
+}

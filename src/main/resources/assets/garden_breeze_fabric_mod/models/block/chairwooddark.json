@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_chair_wood_dark",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/ladder_dark_oak",
+        "0": "garden_breeze_fabric_mod:block/ladder_dark_oak"
+    },
+    "render_type": "cutout"
+}

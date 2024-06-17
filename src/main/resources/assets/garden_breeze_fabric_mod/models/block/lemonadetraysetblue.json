@@ -1,0 +1,12 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/lemonade_tray_set_blue",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/yellow_shulker_box_top",
+        "1": "garden_breeze_fabric_mod:block/glass_white",
+        "3": "garden_breeze_fabric_mod:block/blue_concrete",
+        "4": "garden_breeze_fabric_mod:block/yellow_concrete",
+        "6": "garden_breeze_fabric_mod:block/yellow_shulker_box_top"
+    },
+    "render_type": "cutout"
+}

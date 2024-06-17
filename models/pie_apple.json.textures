@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_ingot_0",
+        "1": "oak_log_top",
+        "2": "bread_3"
+      },
+      "name": "default"
+    }
+  }
+}

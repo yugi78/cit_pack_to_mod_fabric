@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cake_chocdrip",
+        "2": "white_concrete_powder",
+        "particle": "icecream_vanilla",
+        "1_1_2": "icecream_vanilla"
+      },
+      "name": "default"
+    }
+  }
+}

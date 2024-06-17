@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/chair4jungle",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/stripped_dark_oak_log",
+        "particle": "garden_breeze_fabric_mod:block/double_slab_birch",
+        "1": "garden_breeze_fabric_mod:block/stripped_jungle_log",
+        "4_0": "garden_breeze_fabric_mod:block/double_slab_birch"
+    },
+    "render_type": "cutout"
+}

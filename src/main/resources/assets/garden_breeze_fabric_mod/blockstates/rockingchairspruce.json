@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "garden_breeze_fabric_mod:block/rockingchairspruce"
+    },
+    "facing=east": {
+      "model": "garden_breeze_fabric_mod:block/rockingchairspruce",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "garden_breeze_fabric_mod:block/rockingchairspruce",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "garden_breeze_fabric_mod:block/rockingchairspruce",
+      "y": 270
+    }
+  }
+}

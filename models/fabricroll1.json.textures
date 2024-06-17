@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "quilt_yellow",
+        "1": "knit_lilac_border",
+        "2": "quilt_pink",
+        "3": "oak",
+        "particle": "quilt_yellow"
+      },
+      "name": "default"
+    }
+  }
+}

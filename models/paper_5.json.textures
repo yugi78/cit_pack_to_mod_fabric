@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "paper_5",
+        "1": "paper_5_01"
+      },
+      "name": "default"
+    }
+  }
+}

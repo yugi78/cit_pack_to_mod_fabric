@@ -1,0 +1,10 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/gingtrim_dark3",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/beetroot_0",
+        "particle": "garden_breeze_fabric_mod:block/beetroot_0",
+        "0": "garden_breeze_fabric_mod:block/fence_dark_oak",
+        "1": "garden_breeze_fabric_mod:block/dark_oak_planks_vertical"
+    },
+    "render_type": "cutout"
+}

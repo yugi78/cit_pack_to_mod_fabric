@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gray_wool",
+        "1": "gray_concrete_powder",
+        "2": "iron_ingot_0",
+        "particle": "gray_wool"
+      },
+      "name": "default"
+    }
+  }
+}

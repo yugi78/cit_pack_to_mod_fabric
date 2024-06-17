@@ -1,0 +1,12 @@
+{
+  "parent": "garden_breeze_fabric_mod:custom/vase1_sunflower",
+  "textures": {
+    "all": "garden_breeze_fabric_mod:block/canasto1",
+    "particle": "garden_breeze_fabric_mod:block/porcelain_pitcher",
+    "0": "garden_breeze_fabric_mod:block/porcelain_pitcher",
+    "1": "garden_breeze_fabric_mod:block/sunflower_stem",
+    "2": "garden_breeze_fabric_mod:block/sunflower_back",
+    "3": "garden_breeze_fabric_mod:block/sunflower_front"
+  },
+  "render_type": "cutout"
+}

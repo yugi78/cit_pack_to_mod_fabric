@@ -1,0 +1,9 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/mt_food_mitarashi",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/juice_a",
+        "particle": "garden_breeze_fabric_mod:block/mitarashi_dango",
+        "0": "garden_breeze_fabric_mod:block/mitarashi_dango"
+    },
+    "render_type": "cutout"
+}

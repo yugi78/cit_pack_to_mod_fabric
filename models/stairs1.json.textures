@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_oak_log_a",
+        "1": "wood2",
+        "particle": "stripped_oak_log_a"
+      },
+      "name": "default"
+    }
+  }
+}

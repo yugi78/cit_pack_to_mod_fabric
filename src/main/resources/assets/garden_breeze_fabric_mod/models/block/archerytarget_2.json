@@ -1,0 +1,14 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/archerytargetshot",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/haytarget",
+        "particle": "garden_breeze_fabric_mod:block/smallfeather",
+        "0": "garden_breeze_fabric_mod:block/haytarget",
+        "1": "garden_breeze_fabric_mod:block/hay_block_top",
+        "2": "garden_breeze_fabric_mod:block/stripped_oak_log",
+        "3": "garden_breeze_fabric_mod:block/feathers",
+        "4": "garden_breeze_fabric_mod:block/furnace_top",
+        "1_2": "garden_breeze_fabric_mod:block/smallfeather"
+    },
+    "render_type": "cutout"
+}

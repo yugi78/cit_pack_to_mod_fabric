@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "redstone_0",
+        "1": "runes",
+        "2": "birch_log_top",
+        "3": "stripped_spruce_log",
+        "particle": "runes"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "black_oak",
+        "1": "knit_terracotta",
+        "particle": "knit_terracotta"
+      },
+      "name": "default"
+    }
+  }
+}

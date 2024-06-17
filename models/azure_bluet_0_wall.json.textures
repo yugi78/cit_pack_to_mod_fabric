@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "azure_bluet_0",
+        "1": "azure_bluet_0_01",
+        "1_0": "hanging_basket"
+      },
+      "name": "default"
+    }
+  }
+}

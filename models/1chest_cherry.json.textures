@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_cherry2",
+        "2": "black_concrete",
+        "3": "sakura_5a",
+        "4": "sakura_8"
+      },
+      "name": "default"
+    }
+  }
+}

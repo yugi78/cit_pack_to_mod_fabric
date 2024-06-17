@@ -1,0 +1,11 @@
+{
+    "parent": "garden_breeze_fabric_mod:custom/1chest_wither",
+    "textures": {
+        "all": "garden_breeze_fabric_mod:block/spruce_planks_vertical",
+        "particle": "garden_breeze_fabric_mod:block/dark_oak_planks",
+        "0": "garden_breeze_fabric_mod:block/dark_oak_planks",
+        "1": "garden_breeze_fabric_mod:block/anvil",
+        "2": "garden_breeze_fabric_mod:block/black_concrete"
+    },
+    "render_type": "solid"
+}

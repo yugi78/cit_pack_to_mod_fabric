@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "clock_0",
+        "1": "clock_0_01"
+      },
+      "name": "default"
+    }
+  }
+}
